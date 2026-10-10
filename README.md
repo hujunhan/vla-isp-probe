@@ -17,7 +17,7 @@ Full write-up: **[REPORT.md](REPORT.md)**. Every number in it comes from a per-e
 | 3 | **LIBERO-Plus task instructions carry a file-name suffix** ("… view 0 0 100 0 0 initstate 0 noise 3"). It costs 13 points on Goal (87.1 → 73.9, McNemar p = 4e-7), about half of that suite's reported noise drop | REPORT §3.2, `results/e003/` |
 | 4 | **LIBERO-Plus difficulty labels contradict Table 2.** 19.9% of Light tasks are labelled "solved by none", which caps OFT at 80.1%, yet Table 2 reports 88.7% | REPORT §3.3 |
 | 5 | **Realistic sensor noise plus a noise reduction tuned to the gain: no measurable effect** (≤ 3.3 points, two ISPs, two policies) | REPORT §4, `results/e004/`, `results/e005/` |
-| 6 | **Un-tuned noise reduction at high gain hurts:** about −16 points for a third-person-only policy across suites; about −8 for a wrist + third-person policy (shrinking on replication: −29 → −13 → −8) | REPORT §4.2–4.3, `results/e005/`, `results/e006/` |
+| 6 | **Un-tuned noise reduction at high gain hurts:** a drop of about 16 points for a third-person-only policy across suites, and about 8 for a wrist + third-person policy (the estimate shrank on replication: 29 → 13 → 8) | REPORT §4.2–4.3, `results/e005/`, `results/e006/` |
 | 7 | **Image-space Gaussian noise at matched PSNR has no effect,** so image-space robustness benchmarks would miss finding 6 | REPORT §4.2 |
 
 **Scope:** simulation only, one ISP setting (spatial noise-reduction strength), RAW approximated from
