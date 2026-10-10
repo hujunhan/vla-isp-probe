@@ -1,0 +1,188 @@
+{
+ "tasks_candidate": {
+  "libero_spatial": [
+   0,
+   1,
+   2
+  ],
+  "libero_object": [
+   0,
+   1,
+   2
+  ],
+  "libero_goal": [
+   0,
+   1,
+   2
+  ]
+ },
+ "episodes_per_task": 20,
+ "gate": "OFT render >= 18/20 per task, else replace with next task id",
+ "policies": {
+  "oft": [
+   "G",
+   "C",
+   "N"
+  ],
+  "oft_w": [
+   "G",
+   "C",
+   "N"
+  ]
+ },
+ "blocks": {
+  "G": [
+   {
+    "tag": "render",
+    "mode": "render",
+    "cams": []
+   }
+  ],
+  "C": [
+   {
+    "tag": "inf_clean_off",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.0,
+    "preset": "off"
+   },
+   {
+    "tag": "inf_clean_sharp",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.0,
+    "preset": "tuned",
+    "bnr_scale": 0,
+    "wts": 0
+   },
+   {
+    "tag": "inf_clean_repo",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.0,
+    "preset": "repo_default"
+   },
+   {
+    "tag": "toy_clean",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {}
+   }
+  ],
+  "N": [
+   {
+    "tag": "inf_lam1.2e-2_off",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.012,
+    "preset": "off"
+   },
+   {
+    "tag": "inf_lam1.2e-2_repo",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.012,
+    "preset": "repo_default"
+   },
+   {
+    "tag": "inf_lam1.2e-2_tuned",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.012,
+    "preset": "tuned",
+    "bnr_scale": 2,
+    "wts": 30
+   },
+   {
+    "tag": "inf_lam1.2e-2_strong",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.012,
+    "preset": "strong",
+    "bnr_scale": 2,
+    "wts": 30
+   },
+   {
+    "tag": "toy_lam1.2e-2_default",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.012,
+     "denoise_h": 18
+    }
+   },
+   {
+    "tag": "toy_lam1.2e-2_dnstrong",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.012,
+     "denoise_h": 18,
+     "denoise": "strong"
+    }
+   },
+   {
+    "tag": "toy_lam1.2e-2_dnoff",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.012,
+     "denoise_h": 18,
+     "denoise": "off"
+    }
+   }
+  ]
+ },
+ "references": {
+  "inf_lam1.2e-2_off": "inf_clean_off",
+  "inf_lam1.2e-2_repo": "inf_clean_sharp",
+  "inf_lam1.2e-2_tuned": "inf_clean_sharp",
+  "inf_lam1.2e-2_strong": "inf_clean_sharp",
+  "toy_lam1.2e-2_default": "toy_clean",
+  "toy_lam1.2e-2_dnstrong": "toy_clean",
+  "toy_lam1.2e-2_dnoff": "toy_clean"
+ },
+ "calibration": {
+  "tuned": {
+   "bnr_scale": 2,
+   "wts": 30
+  },
+  "strong": {
+   "bnr_scale": 4,
+   "wts": 60
+  }
+ }
+}

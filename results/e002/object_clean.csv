@@ -1,0 +1,720 @@
+suite,task_id,name,category,level,noise_code,lang_mode,language,success,error,policy_steps,n_queries,wall_s
+libero_object,1397,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,pick up the alphabet soup and place it in the basket,1,0,219,28,43.21
+libero_object,1398,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,3,3,clean,pick up the alphabet soup and place it in the basket,1,0,232,29,46.53
+libero_object,1399,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,4,4,clean,pick up the alphabet soup and place it in the basket,1,0,207,26,46.77
+libero_object,1400,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,pick up the alphabet soup and place it in the basket,1,0,206,26,47.21
+libero_object,1401,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,3,6,clean,pick up the alphabet soup and place it in the basket,1,0,176,22,41.53
+libero_object,1402,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,3,7,clean,pick up the alphabet soup and place it in the basket,1,0,161,21,39.05
+libero_object,1403,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,2,8,clean,pick up the alphabet soup and place it in the basket,1,0,134,17,35.43
+libero_object,1404,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,clean,pick up the alphabet soup and place it in the basket,1,0,153,20,43.02
+libero_object,1405,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,4,10,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,79.01
+libero_object,1406,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the alphabet soup and place it in the basket,1,0,137,18,16.36
+libero_object,1407,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,pick up the alphabet soup and place it in the basket,1,0,146,19,17.5
+libero_object,1408,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,clean,pick up the alphabet soup and place it in the basket,1,0,132,17,15.59
+libero_object,1409,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,5,15,clean,pick up the alphabet soup and place it in the basket,1,0,160,20,19.06
+libero_object,1410,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,32.19
+libero_object,1411,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,32.48
+libero_object,1412,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,32.7
+libero_object,1413,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,32.59
+libero_object,1414,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,28.77
+libero_object,1415,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,1,22,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,69.27
+libero_object,1416,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,pick up the alphabet soup and place it in the basket,1,0,208,26,50.33
+libero_object,1417,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,62.57
+libero_object,1418,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,3,26,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,127.39
+libero_object,1419,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,136.39
+libero_object,1420,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,89.71
+libero_object,1421,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,97.6
+libero_object,1422,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,76.15
+libero_object,1423,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the alphabet soup and place it in the basket,1,0,182,23,20.82
+libero_object,1424,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the alphabet soup and place it in the basket,1,0,172,22,19.57
+libero_object,1425,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,pick up the alphabet soup and place it in the basket,1,0,193,25,26.18
+libero_object,1426,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,4,38,clean,pick up the alphabet soup and place it in the basket,1,0,151,19,22.09
+libero_object,1427,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,37.6
+libero_object,1428,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,37.06
+libero_object,1429,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,pick up the alphabet soup and place it in the basket,1,0,213,27,330.41
+libero_object,1430,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,2,42,clean,pick up the alphabet soup and place it in the basket,1,0,186,24,283.85
+libero_object,1431,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,clean,pick up the alphabet soup and place it in the basket,1,0,137,18,209.51
+libero_object,1432,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the alphabet soup and place it in the basket,1,0,128,16,135.37
+libero_object,1433,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,3,45,clean,pick up the alphabet soup and place it in the basket,1,0,145,19,152.96
+libero_object,1434,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,pick up the alphabet soup and place it in the basket,1,0,145,19,152.32
+libero_object,1435,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,pick up the alphabet soup and place it in the basket,1,0,228,29,231.3
+libero_object,1436,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,296.42
+libero_object,1437,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the alphabet soup and place it in the basket,1,0,151,19,85.0
+libero_object,1438,pick_up_the_alphabet_soup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,pick up the alphabet soup and place it in the basket,1,0,230,29,122.31
+libero_object,1439,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,clean,pick up the cream cheese and place it in the basket,1,0,130,17,24.4
+libero_object,1440,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,pick up the cream cheese and place it in the basket,1,0,132,17,25.32
+libero_object,1441,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the cream cheese and place it in the basket,1,0,123,16,24.98
+libero_object,1442,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,3,4,clean,pick up the cream cheese and place it in the basket,1,0,124,16,25.67
+libero_object,1443,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,3,5,clean,pick up the cream cheese and place it in the basket,1,0,124,16,27.48
+libero_object,1444,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,3,6,clean,pick up the cream cheese and place it in the basket,1,0,131,17,30.89
+libero_object,1445,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,3,7,clean,pick up the cream cheese and place it in the basket,1,0,179,23,40.37
+libero_object,1446,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,pick up the cream cheese and place it in the basket,1,0,180,23,42.71
+libero_object,1447,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,5,9,clean,pick up the cream cheese and place it in the basket,1,0,173,22,44.28
+libero_object,1448,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,pick up the cream cheese and place it in the basket,0,0,280,35,71.16
+libero_object,1449,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,1,11,clean,pick up the cream cheese and place it in the basket,1,0,129,17,13.1
+libero_object,1450,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the cream cheese and place it in the basket,1,0,123,16,12.67
+libero_object,1451,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,pick up the cream cheese and place it in the basket,1,0,120,15,12.18
+libero_object,1452,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,pick up the cream cheese and place it in the basket,1,0,202,26,20.34
+libero_object,1453,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,pick up the cream cheese and place it in the basket,1,0,195,25,19.88
+libero_object,1454,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,pick up the cream cheese and place it in the basket,0,0,280,35,27.4
+libero_object,1455,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the cream cheese and place it in the basket,0,0,280,35,28.56
+libero_object,1456,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,clean,pick up the cream cheese and place it in the basket,0,0,280,35,28.22
+libero_object,1457,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,pick up the cream cheese and place it in the basket,0,0,280,35,28.56
+libero_object,1458,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_21,Sensor Noise,1,21,clean,pick up the cream cheese and place it in the basket,1,0,123,16,27.24
+libero_object,1459,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,2,22,clean,pick up the cream cheese and place it in the basket,1,0,252,32,60.86
+libero_object,1460,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,pick up the cream cheese and place it in the basket,0,0,280,35,59.48
+libero_object,1461,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the cream cheese and place it in the basket,0,0,280,35,53.77
+libero_object,1462,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,clean,pick up the cream cheese and place it in the basket,1,0,138,18,61.75
+libero_object,1463,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,clean,pick up the cream cheese and place it in the basket,0,0,280,35,129.47
+libero_object,1464,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the cream cheese and place it in the basket,0,0,280,35,82.92
+libero_object,1465,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,clean,pick up the cream cheese and place it in the basket,0,0,280,35,91.73
+libero_object,1466,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,pick up the cream cheese and place it in the basket,0,0,280,35,73.69
+libero_object,1467,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,1,32,clean,pick up the cream cheese and place it in the basket,1,0,123,16,12.31
+libero_object,1468,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,1,33,clean,pick up the cream cheese and place it in the basket,1,0,123,16,12.29
+libero_object,1469,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,2,34,clean,pick up the cream cheese and place it in the basket,1,0,124,16,12.94
+libero_object,1470,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the cream cheese and place it in the basket,1,0,122,16,12.5
+libero_object,1471,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the cream cheese and place it in the basket,1,0,120,15,11.88
+libero_object,1472,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,3,37,clean,pick up the cream cheese and place it in the basket,1,0,120,15,11.88
+libero_object,1473,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,4,38,clean,pick up the cream cheese and place it in the basket,1,0,122,16,12.41
+libero_object,1474,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,pick up the cream cheese and place it in the basket,1,0,124,16,188.7
+libero_object,1475,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,2,42,clean,pick up the cream cheese and place it in the basket,1,0,128,16,191.59
+libero_object,1476,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,clean,pick up the cream cheese and place it in the basket,1,0,131,17,193.11
+libero_object,1477,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the cream cheese and place it in the basket,1,0,123,16,126.02
+libero_object,1478,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,clean,pick up the cream cheese and place it in the basket,1,0,162,21,161.07
+libero_object,1479,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,pick up the cream cheese and place it in the basket,0,0,280,35,267.77
+libero_object,1480,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,5,48,clean,pick up the cream cheese and place it in the basket,1,0,138,18,138.02
+libero_object,1481,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the cream cheese and place it in the basket,1,0,175,22,94.48
+libero_object,1482,pick_up_the_cream_cheese_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,pick up the cream cheese and place it in the basket,0,0,280,35,150.36
+libero_object,1483,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,clean,pick up the salad dressing and place it in the basket,1,0,126,16,24.94
+libero_object,1484,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,pick up the salad dressing and place it in the basket,1,0,127,16,24.48
+libero_object,1485,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the salad dressing and place it in the basket,1,0,118,15,25.07
+libero_object,1486,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,pick up the salad dressing and place it in the basket,1,0,127,16,27.29
+libero_object,1487,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,pick up the salad dressing and place it in the basket,1,0,127,16,27.35
+libero_object,1488,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,3,6,clean,pick up the salad dressing and place it in the basket,1,0,115,15,28.85
+libero_object,1489,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,3,7,clean,pick up the salad dressing and place it in the basket,1,0,122,16,30.57
+libero_object,1490,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,pick up the salad dressing and place it in the basket,1,0,128,16,34.42
+libero_object,1491,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,clean,pick up the salad dressing and place it in the basket,1,0,136,17,37.26
+libero_object,1492,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the salad dressing and place it in the basket,1,0,115,15,14.25
+libero_object,1493,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,pick up the salad dressing and place it in the basket,1,0,128,16,14.85
+libero_object,1494,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,3,14,clean,pick up the salad dressing and place it in the basket,1,0,122,16,15.77
+libero_object,1495,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,2,15,clean,pick up the salad dressing and place it in the basket,1,0,122,16,16.06
+libero_object,1496,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,pick up the salad dressing and place it in the basket,1,0,119,15,14.61
+libero_object,1497,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,4,17,clean,pick up the salad dressing and place it in the basket,0,0,280,35,32.86
+libero_object,1498,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,pick up the salad dressing and place it in the basket,0,0,280,35,33.91
+libero_object,1499,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,pick up the salad dressing and place it in the basket,0,0,280,35,34.16
+libero_object,1500,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,pick up the salad dressing and place it in the basket,1,0,117,15,28.66
+libero_object,1501,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the salad dressing and place it in the basket,1,0,125,16,27.73
+libero_object,1502,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,clean,pick up the salad dressing and place it in the basket,1,0,190,24,86.34
+libero_object,1503,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,pick up the salad dressing and place it in the basket,1,0,141,18,70.77
+libero_object,1504,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,2,28,clean,pick up the salad dressing and place it in the basket,1,0,147,19,50.02
+libero_object,1505,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,pick up the salad dressing and place it in the basket,0,0,280,35,107.1
+libero_object,1506,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,pick up the salad dressing and place it in the basket,0,0,280,35,89.58
+libero_object,1507,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,1,33,clean,pick up the salad dressing and place it in the basket,1,0,117,15,16.05
+libero_object,1508,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,1,34,clean,pick up the salad dressing and place it in the basket,1,0,116,15,17.67
+libero_object,1509,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the salad dressing and place it in the basket,1,0,117,15,17.0
+libero_object,1510,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the salad dressing and place it in the basket,1,0,122,16,17.61
+libero_object,1511,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,pick up the salad dressing and place it in the basket,1,0,123,16,18.19
+libero_object,1512,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,3,38,clean,pick up the salad dressing and place it in the basket,1,0,123,16,18.3
+libero_object,1513,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,3,39,clean,pick up the salad dressing and place it in the basket,1,0,128,16,18.46
+libero_object,1514,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,pick up the salad dressing and place it in the basket,0,0,280,35,28.23
+libero_object,1515,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,pick up the salad dressing and place it in the basket,1,0,127,16,198.53
+libero_object,1516,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,1,42,clean,pick up the salad dressing and place it in the basket,1,0,125,16,195.27
+libero_object,1517,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,pick up the salad dressing and place it in the basket,1,0,117,15,183.13
+libero_object,1518,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the salad dressing and place it in the basket,1,0,115,15,130.29
+libero_object,1519,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,clean,pick up the salad dressing and place it in the basket,1,0,115,15,129.14
+libero_object,1520,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,pick up the salad dressing and place it in the basket,1,0,116,15,118.82
+libero_object,1521,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,3,47,clean,pick up the salad dressing and place it in the basket,1,0,128,16,127.54
+libero_object,1522,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,3,48,clean,pick up the salad dressing and place it in the basket,1,0,128,16,127.03
+libero_object,1523,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the salad dressing and place it in the basket,1,0,121,16,66.67
+libero_object,1524,pick_up_the_salad_dressing_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,pick up the salad dressing and place it in the basket,1,0,122,16,68.2
+libero_object,1525,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,1,2,clean,pick up the bbq sauce and place it in the basket,1,0,124,16,24.13
+libero_object,1526,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the bbq sauce and place it in the basket,1,0,126,16,25.46
+libero_object,1527,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,26.09
+libero_object,1528,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,27.39
+libero_object,1529,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,clean,pick up the bbq sauce and place it in the basket,1,0,128,16,28.02
+libero_object,1530,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,2,7,clean,pick up the bbq sauce and place it in the basket,1,0,136,17,30.49
+libero_object,1531,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,pick up the bbq sauce and place it in the basket,1,0,136,17,32.72
+libero_object,1532,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,4,10,clean,pick up the bbq sauce and place it in the basket,1,0,242,31,66.54
+libero_object,1533,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the bbq sauce and place it in the basket,1,0,121,16,12.74
+libero_object,1534,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,pick up the bbq sauce and place it in the basket,1,0,124,16,12.86
+libero_object,1535,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,clean,pick up the bbq sauce and place it in the basket,1,0,136,17,13.97
+libero_object,1536,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,2,15,clean,pick up the bbq sauce and place it in the basket,1,0,237,30,24.35
+libero_object,1537,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,3,16,clean,pick up the bbq sauce and place it in the basket,1,0,207,26,21.65
+libero_object,1538,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,4,17,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,27.98
+libero_object,1539,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,28.58
+libero_object,1540,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,4,19,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,29.45
+libero_object,1541,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,29.77
+libero_object,1542,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,62.12
+libero_object,1543,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the bbq sauce and place it in the basket,1,0,253,32,50.28
+libero_object,1544,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,clean,pick up the bbq sauce and place it in the basket,1,0,164,21,73.05
+libero_object,1545,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,128.03
+libero_object,1546,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,4,28,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,84.06
+libero_object,1547,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,3,29,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,92.74
+libero_object,1548,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,74.59
+libero_object,1549,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,1,34,clean,pick up the bbq sauce and place it in the basket,1,0,121,16,12.78
+libero_object,1550,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,1,35,clean,pick up the bbq sauce and place it in the basket,1,0,121,16,13.16
+libero_object,1551,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the bbq sauce and place it in the basket,1,0,121,16,12.49
+libero_object,1552,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,pick up the bbq sauce and place it in the basket,1,0,124,16,12.74
+libero_object,1553,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,3,38,clean,pick up the bbq sauce and place it in the basket,1,0,126,16,13.07
+libero_object,1554,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,3,39,clean,pick up the bbq sauce and place it in the basket,1,0,185,24,18.76
+libero_object,1555,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,pick up the bbq sauce and place it in the basket,0,0,280,35,26.82
+libero_object,1556,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,clean,pick up the bbq sauce and place it in the basket,1,0,118,15,181.69
+libero_object,1557,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,2,42,clean,pick up the bbq sauce and place it in the basket,1,0,121,16,186.98
+libero_object,1558,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,pick up the bbq sauce and place it in the basket,1,0,126,16,195.12
+libero_object,1559,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the bbq sauce and place it in the basket,1,0,121,16,132.22
+libero_object,1560,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,clean,pick up the bbq sauce and place it in the basket,1,0,129,17,145.56
+libero_object,1561,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,pick up the bbq sauce and place it in the basket,1,0,130,17,145.82
+libero_object,1562,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,3,47,clean,pick up the bbq sauce and place it in the basket,1,0,152,19,159.47
+libero_object,1563,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,pick up the bbq sauce and place it in the basket,1,0,159,20,164.32
+libero_object,1564,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,3,49,clean,pick up the bbq sauce and place it in the basket,1,0,160,20,88.55
+libero_object,1565,pick_up_the_bbq_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,2,50,clean,pick up the bbq sauce and place it in the basket,1,0,151,19,84.3
+libero_object,1566,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,1,1,clean,pick up the ketchup and place it in the basket,1,0,139,18,26.38
+libero_object,1567,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,pick up the ketchup and place it in the basket,1,0,130,17,26.76
+libero_object,1568,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the ketchup and place it in the basket,1,0,142,18,29.44
+libero_object,1569,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,pick up the ketchup and place it in the basket,1,0,141,18,30.31
+libero_object,1570,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,3,5,clean,pick up the ketchup and place it in the basket,1,0,144,18,31.57
+libero_object,1571,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,3,6,clean,pick up the ketchup and place it in the basket,1,0,149,19,34.28
+libero_object,1572,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,pick up the ketchup and place it in the basket,0,0,280,35,63.94
+libero_object,1573,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,pick up the ketchup and place it in the basket,0,0,280,35,69.14
+libero_object,1574,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,clean,pick up the ketchup and place it in the basket,0,0,280,35,74.2
+libero_object,1575,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,4,10,clean,pick up the ketchup and place it in the basket,0,0,280,35,75.74
+libero_object,1576,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,1,12,clean,pick up the ketchup and place it in the basket,1,0,133,17,15.48
+libero_object,1577,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,pick up the ketchup and place it in the basket,1,0,144,18,16.56
+libero_object,1578,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,pick up the ketchup and place it in the basket,1,0,152,19,17.53
+libero_object,1579,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,5,15,clean,pick up the ketchup and place it in the basket,0,0,280,35,39.1
+libero_object,1580,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,clean,pick up the ketchup and place it in the basket,0,0,280,35,41.18
+libero_object,1581,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the ketchup and place it in the basket,0,0,280,35,41.63
+libero_object,1582,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,clean,pick up the ketchup and place it in the basket,0,0,280,35,41.82
+libero_object,1583,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,pick up the ketchup and place it in the basket,0,0,280,35,41.67
+libero_object,1584,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,pick up the ketchup and place it in the basket,0,0,280,35,42.91
+libero_object,1585,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,1,23,clean,pick up the ketchup and place it in the basket,1,0,145,19,37.04
+libero_object,1586,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,2,24,clean,pick up the ketchup and place it in the basket,1,0,164,21,42.52
+libero_object,1587,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the ketchup and place it in the basket,1,0,180,23,36.94
+libero_object,1588,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,clean,pick up the ketchup and place it in the basket,0,0,280,35,118.45
+libero_object,1589,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,clean,pick up the ketchup and place it in the basket,0,0,280,35,128.77
+libero_object,1590,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the ketchup and place it in the basket,0,0,280,35,83.2
+libero_object,1591,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,pick up the ketchup and place it in the basket,0,0,280,35,92.84
+libero_object,1592,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,pick up the ketchup and place it in the basket,0,0,280,35,74.17
+libero_object,1593,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,1,34,clean,pick up the ketchup and place it in the basket,1,0,140,18,13.93
+libero_object,1594,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the ketchup and place it in the basket,1,0,140,18,14.33
+libero_object,1595,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the ketchup and place it in the basket,1,0,140,18,13.72
+libero_object,1596,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,3,37,clean,pick up the ketchup and place it in the basket,1,0,143,18,14.21
+libero_object,1597,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,3,38,clean,pick up the ketchup and place it in the basket,1,0,153,20,15.33
+libero_object,1598,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,pick up the ketchup and place it in the basket,0,0,280,35,26.65
+libero_object,1599,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,clean,pick up the ketchup and place it in the basket,0,0,280,35,26.23
+libero_object,1600,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,pick up the ketchup and place it in the basket,1,0,132,17,200.33
+libero_object,1601,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,pick up the ketchup and place it in the basket,1,0,145,19,212.11
+libero_object,1602,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the ketchup and place it in the basket,1,0,144,18,145.25
+libero_object,1603,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,3,45,clean,pick up the ketchup and place it in the basket,1,0,143,18,143.06
+libero_object,1604,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,3,46,clean,pick up the ketchup and place it in the basket,1,0,145,19,145.38
+libero_object,1605,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,5,47,clean,pick up the ketchup and place it in the basket,0,0,280,35,266.33
+libero_object,1606,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,5,48,clean,pick up the ketchup and place it in the basket,0,0,280,35,268.46
+libero_object,1607,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,3,49,clean,pick up the ketchup and place it in the basket,0,0,280,35,147.05
+libero_object,1608,pick_up_the_ketchup_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,pick up the ketchup and place it in the basket,0,0,280,35,147.77
+libero_object,1609,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,clean,pick up the tomato sauce and place it in the basket,1,0,115,15,22.1
+libero_object,1610,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,pick up the tomato sauce and place it in the basket,1,0,117,15,22.4
+libero_object,1611,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the tomato sauce and place it in the basket,1,0,117,15,24.08
+libero_object,1612,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,pick up the tomato sauce and place it in the basket,1,0,117,15,24.61
+libero_object,1613,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,pick up the tomato sauce and place it in the basket,1,0,117,15,26.62
+libero_object,1614,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,3,6,clean,pick up the tomato sauce and place it in the basket,1,0,122,16,27.77
+libero_object,1615,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,3,7,clean,pick up the tomato sauce and place it in the basket,1,0,137,18,33.43
+libero_object,1616,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,3,8,clean,pick up the tomato sauce and place it in the basket,1,0,144,18,35.59
+libero_object,1617,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,clean,pick up the tomato sauce and place it in the basket,1,0,181,23,45.83
+libero_object,1618,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the tomato sauce and place it in the basket,1,0,115,15,12.08
+libero_object,1619,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,3,13,clean,pick up the tomato sauce and place it in the basket,1,0,121,16,13.23
+libero_object,1620,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,3,14,clean,pick up the tomato sauce and place it in the basket,1,0,119,15,12.86
+libero_object,1621,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,pick up the tomato sauce and place it in the basket,1,0,184,23,19.83
+libero_object,1622,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,3,16,clean,pick up the tomato sauce and place it in the basket,1,0,219,28,23.65
+libero_object,1623,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,31.05
+libero_object,1624,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,31.63
+libero_object,1625,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,4,19,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,36.7
+libero_object,1626,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,38.26
+libero_object,1627,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,2,23,clean,pick up the tomato sauce and place it in the basket,1,0,185,24,42.48
+libero_object,1628,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,pick up the tomato sauce and place it in the basket,1,0,275,35,66.06
+libero_object,1629,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,clean,pick up the tomato sauce and place it in the basket,1,0,157,20,32.55
+libero_object,1630,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,126.64
+libero_object,1631,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,137.43
+libero_object,1632,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,90.0
+libero_object,1633,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,99.12
+libero_object,1634,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,81.05
+libero_object,1635,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,1,33,clean,pick up the tomato sauce and place it in the basket,1,0,117,15,13.83
+libero_object,1636,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,1,34,clean,pick up the tomato sauce and place it in the basket,1,0,118,15,13.8
+libero_object,1637,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,14.02
+libero_object,1638,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the tomato sauce and place it in the basket,1,0,119,15,14.41
+libero_object,1639,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,20.11
+libero_object,1640,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,3,38,clean,pick up the tomato sauce and place it in the basket,1,0,126,16,16.93
+libero_object,1641,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,38.63
+libero_object,1642,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,36.96
+libero_object,1643,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,pick up the tomato sauce and place it in the basket,1,0,117,15,190.66
+libero_object,1644,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,2,42,clean,pick up the tomato sauce and place it in the basket,1,0,119,15,190.84
+libero_object,1645,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,pick up the tomato sauce and place it in the basket,1,0,123,16,191.33
+libero_object,1646,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the tomato sauce and place it in the basket,1,0,118,15,125.14
+libero_object,1647,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,clean,pick up the tomato sauce and place it in the basket,1,0,135,17,140.26
+libero_object,1648,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,clean,pick up the tomato sauce and place it in the basket,1,0,135,17,141.66
+libero_object,1649,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,283.69
+libero_object,1650,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,292.55
+libero_object,1651,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the tomato sauce and place it in the basket,1,0,184,23,103.97
+libero_object,1652,pick_up_the_tomato_sauce_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,3,50,clean,pick up the tomato sauce and place it in the basket,0,0,280,35,147.42
+libero_object,1653,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,1,1,clean,pick up the butter and place it in the basket,1,0,142,18,25.58
+libero_object,1654,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,1,2,clean,pick up the butter and place it in the basket,1,0,140,18,26.64
+libero_object,1655,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the butter and place it in the basket,1,0,145,19,29.01
+libero_object,1656,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,3,4,clean,pick up the butter and place it in the basket,1,0,142,18,29.12
+libero_object,1657,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,pick up the butter and place it in the basket,1,0,146,19,31.26
+libero_object,1658,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,clean,pick up the butter and place it in the basket,1,0,179,23,39.57
+libero_object,1659,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,2,7,clean,pick up the butter and place it in the basket,1,0,172,22,39.15
+libero_object,1660,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,3,8,clean,pick up the butter and place it in the basket,0,0,280,35,65.56
+libero_object,1661,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,2,11,clean,pick up the butter and place it in the basket,1,0,143,18,13.88
+libero_object,1662,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the butter and place it in the basket,1,0,142,18,14.06
+libero_object,1663,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,pick up the butter and place it in the basket,1,0,149,19,15.27
+libero_object,1664,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,clean,pick up the butter and place it in the basket,1,0,147,19,15.14
+libero_object,1665,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,pick up the butter and place it in the basket,0,0,280,35,27.28
+libero_object,1666,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,clean,pick up the butter and place it in the basket,0,0,280,35,27.76
+libero_object,1667,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the butter and place it in the basket,0,0,280,35,27.77
+libero_object,1668,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,4,19,clean,pick up the butter and place it in the basket,0,0,280,35,28.32
+libero_object,1669,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,pick up the butter and place it in the basket,0,0,280,35,28.99
+libero_object,1670,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_21,Sensor Noise,1,21,clean,pick up the butter and place it in the basket,1,0,133,17,29.24
+libero_object,1671,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,1,22,clean,pick up the butter and place it in the basket,1,0,153,20,38.96
+libero_object,1672,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,1,23,clean,pick up the butter and place it in the basket,1,0,135,17,26.71
+libero_object,1673,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,2,24,clean,pick up the butter and place it in the basket,1,0,150,19,33.14
+libero_object,1674,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the butter and place it in the basket,1,0,155,20,30.79
+libero_object,1675,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,3,26,clean,pick up the butter and place it in the basket,0,0,280,35,118.14
+libero_object,1676,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,pick up the butter and place it in the basket,0,0,280,35,126.79
+libero_object,1677,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the butter and place it in the basket,0,0,280,35,82.73
+libero_object,1678,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,pick up the butter and place it in the basket,0,0,280,35,91.44
+libero_object,1679,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,pick up the butter and place it in the basket,0,0,280,35,73.88
+libero_object,1680,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,1,33,clean,pick up the butter and place it in the basket,1,0,144,18,13.96
+libero_object,1681,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,2,34,clean,pick up the butter and place it in the basket,1,0,141,18,14.34
+libero_object,1682,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the butter and place it in the basket,1,0,141,18,14.39
+libero_object,1683,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the butter and place it in the basket,1,0,141,18,14.51
+libero_object,1684,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,pick up the butter and place it in the basket,1,0,144,18,13.9
+libero_object,1685,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,3,38,clean,pick up the butter and place it in the basket,1,0,161,21,16.49
+libero_object,1686,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,pick up the butter and place it in the basket,0,0,280,35,26.58
+libero_object,1687,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,pick up the butter and place it in the basket,0,0,280,35,26.71
+libero_object,1688,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,2,42,clean,pick up the butter and place it in the basket,1,0,154,20,231.23
+libero_object,1689,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,pick up the butter and place it in the basket,1,0,145,19,213.86
+libero_object,1690,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the butter and place it in the basket,1,0,145,19,147.21
+libero_object,1691,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,3,45,clean,pick up the butter and place it in the basket,1,0,227,29,223.51
+libero_object,1692,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,pick up the butter and place it in the basket,1,0,230,29,224.04
+libero_object,1693,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,pick up the butter and place it in the basket,0,0,280,35,267.43
+libero_object,1694,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,pick up the butter and place it in the basket,0,0,280,35,266.95
+libero_object,1695,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the butter and place it in the basket,0,0,280,35,147.06
+libero_object,1696,pick_up_the_butter_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,3,50,clean,pick up the butter and place it in the basket,0,0,280,35,147.85
+libero_object,1697,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,pick up the milk and place it in the basket,1,0,126,16,23.83
+libero_object,1698,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the milk and place it in the basket,1,0,123,16,24.66
+libero_object,1699,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,pick up the milk and place it in the basket,1,0,127,16,26.92
+libero_object,1700,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,pick up the milk and place it in the basket,1,0,124,16,27.29
+libero_object,1701,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,clean,pick up the milk and place it in the basket,1,0,146,19,32.78
+libero_object,1702,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,2,7,clean,pick up the milk and place it in the basket,1,0,131,17,32.57
+libero_object,1703,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,2,8,clean,pick up the milk and place it in the basket,1,0,130,17,32.39
+libero_object,1704,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,clean,pick up the milk and place it in the basket,1,0,251,32,63.42
+libero_object,1705,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,4,10,clean,pick up the milk and place it in the basket,0,0,280,35,74.85
+libero_object,1706,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the milk and place it in the basket,1,0,129,17,14.4
+libero_object,1707,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,pick up the milk and place it in the basket,1,0,128,16,13.62
+libero_object,1708,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,pick up the milk and place it in the basket,1,0,180,23,19.43
+libero_object,1709,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,pick up the milk and place it in the basket,0,0,280,35,29.42
+libero_object,1710,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,clean,pick up the milk and place it in the basket,0,0,280,35,29.31
+libero_object,1711,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the milk and place it in the basket,0,0,280,35,29.83
+libero_object,1712,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,pick up the milk and place it in the basket,0,0,280,35,30.24
+libero_object,1713,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,pick up the milk and place it in the basket,0,0,280,35,30.57
+libero_object,1714,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,pick up the milk and place it in the basket,1,0,125,16,28.74
+libero_object,1715,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the milk and place it in the basket,1,0,131,17,27.29
+libero_object,1716,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,clean,pick up the milk and place it in the basket,0,0,280,35,126.51
+libero_object,1717,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,pick up the milk and place it in the basket,0,0,280,35,137.61
+libero_object,1718,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the milk and place it in the basket,0,0,280,35,90.91
+libero_object,1719,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,clean,pick up the milk and place it in the basket,0,0,280,35,97.01
+libero_object,1720,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,pick up the milk and place it in the basket,0,0,280,35,80.69
+libero_object,1721,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,2,34,clean,pick up the milk and place it in the basket,1,0,125,16,14.51
+libero_object,1722,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the milk and place it in the basket,1,0,122,16,14.5
+libero_object,1723,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the milk and place it in the basket,1,0,122,16,14.67
+libero_object,1724,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,pick up the milk and place it in the basket,1,0,124,16,14.64
+libero_object,1725,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,2,38,clean,pick up the milk and place it in the basket,1,0,129,17,15.45
+libero_object,1726,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,clean,pick up the milk and place it in the basket,1,0,136,17,210.68
+libero_object,1727,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,1,42,clean,pick up the milk and place it in the basket,1,0,125,16,205.19
+libero_object,1728,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,pick up the milk and place it in the basket,1,0,127,16,205.35
+libero_object,1729,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the milk and place it in the basket,1,0,126,16,136.89
+libero_object,1730,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,clean,pick up the milk and place it in the basket,1,0,122,16,130.96
+libero_object,1731,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,3,46,clean,pick up the milk and place it in the basket,1,0,126,16,134.88
+libero_object,1732,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,3,47,clean,pick up the milk and place it in the basket,0,0,280,35,274.04
+libero_object,1733,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,3,48,clean,pick up the milk and place it in the basket,0,0,280,35,277.84
+libero_object,1734,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the milk and place it in the basket,1,0,237,30,132.72
+libero_object,1735,pick_up_the_milk_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,pick up the milk and place it in the basket,0,0,280,35,156.35
+libero_object,1736,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,56.96
+libero_object,1737,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the chocolate pudding and place it in the basket,1,0,146,19,32.09
+libero_object,1738,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,pick up the chocolate pudding and place it in the basket,1,0,252,32,56.79
+libero_object,1739,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,3,5,clean,pick up the chocolate pudding and place it in the basket,1,0,201,26,51.72
+libero_object,1740,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,4,6,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,70.83
+libero_object,1741,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,73.51
+libero_object,1742,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,79.1
+libero_object,1743,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,83.26
+libero_object,1744,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,4,10,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,69.11
+libero_object,1745,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,26.34
+libero_object,1746,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,3,13,clean,pick up the chocolate pudding and place it in the basket,1,0,177,23,17.41
+libero_object,1747,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,27.11
+libero_object,1748,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,27.23
+libero_object,1749,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,27.96
+libero_object,1750,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,28.05
+libero_object,1751,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,28.76
+libero_object,1752,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,28.67
+libero_object,1753,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,29.52
+libero_object,1754,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the chocolate pudding and place it in the basket,1,0,266,34,52.77
+libero_object,1755,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,1,26,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,118.53
+libero_object,1756,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,129.24
+libero_object,1757,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,84.42
+libero_object,1758,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,91.63
+libero_object,1759,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,74.39
+libero_object,1760,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,1,31,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,26.32
+libero_object,1761,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,1,32,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,26.44
+libero_object,1762,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the chocolate pudding and place it in the basket,1,0,149,19,14.51
+libero_object,1763,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,pick up the chocolate pudding and place it in the basket,1,0,154,20,15.28
+libero_object,1764,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,pick up the chocolate pudding and place it in the basket,1,0,148,19,14.68
+libero_object,1765,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,3,38,clean,pick up the chocolate pudding and place it in the basket,1,0,211,27,20.85
+libero_object,1766,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,26.75
+libero_object,1767,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,26.48
+libero_object,1768,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,clean,pick up the chocolate pudding and place it in the basket,1,0,145,19,219.04
+libero_object,1769,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,2,42,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,400.72
+libero_object,1770,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,pick up the chocolate pudding and place it in the basket,1,0,146,19,214.35
+libero_object,1771,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the chocolate pudding and place it in the basket,1,0,146,19,150.46
+libero_object,1772,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,clean,pick up the chocolate pudding and place it in the basket,1,0,242,31,235.65
+libero_object,1773,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,clean,pick up the chocolate pudding and place it in the basket,1,0,150,19,151.06
+libero_object,1774,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,268.72
+libero_object,1775,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,269.87
+libero_object,1776,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,147.62
+libero_object,1777,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,3,50,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,148.42
+libero_object,1778,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,clean,pick up the orange juice and place it in the basket,1,0,122,16,23.47
+libero_object,1779,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,pick up the orange juice and place it in the basket,1,0,194,25,37.91
+libero_object,1780,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,pick up the orange juice and place it in the basket,1,0,116,15,24.07
+libero_object,1781,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,4,5,clean,pick up the orange juice and place it in the basket,1,0,118,15,24.88
+libero_object,1782,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,4,6,clean,pick up the orange juice and place it in the basket,1,0,122,16,27.6
+libero_object,1783,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,pick up the orange juice and place it in the basket,1,0,179,23,40.42
+libero_object,1784,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,pick up the orange juice and place it in the basket,1,0,221,28,51.39
+libero_object,1785,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,clean,pick up the orange juice and place it in the basket,0,0,280,35,69.97
+libero_object,1786,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,pick up the orange juice and place it in the basket,0,0,280,35,73.64
+libero_object,1787,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,1,11,clean,pick up the orange juice and place it in the basket,1,0,121,16,12.28
+libero_object,1788,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,pick up the orange juice and place it in the basket,1,0,121,16,12.92
+libero_object,1789,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,4,13,clean,pick up the orange juice and place it in the basket,1,0,122,16,13.24
+libero_object,1790,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,pick up the orange juice and place it in the basket,1,0,124,16,12.67
+libero_object,1791,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,5,15,clean,pick up the orange juice and place it in the basket,0,0,280,35,27.82
+libero_object,1792,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,pick up the orange juice and place it in the basket,0,0,280,35,27.96
+libero_object,1793,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,pick up the orange juice and place it in the basket,0,0,280,35,28.96
+libero_object,1794,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,clean,pick up the orange juice and place it in the basket,0,0,280,35,29.65
+libero_object,1795,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,pick up the orange juice and place it in the basket,0,0,280,35,30.33
+libero_object,1796,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,2,23,clean,pick up the orange juice and place it in the basket,1,0,124,16,27.15
+libero_object,1797,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,pick up the orange juice and place it in the basket,1,0,136,17,29.38
+libero_object,1798,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,3,26,clean,pick up the orange juice and place it in the basket,0,0,280,35,122.5
+libero_object,1799,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,pick up the orange juice and place it in the basket,0,0,280,35,130.55
+libero_object,1800,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,pick up the orange juice and place it in the basket,0,0,280,35,84.52
+libero_object,1801,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,pick up the orange juice and place it in the basket,0,0,280,35,92.5
+libero_object,1802,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,pick up the orange juice and place it in the basket,0,0,280,35,79.67
+libero_object,1803,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,2,33,clean,pick up the orange juice and place it in the basket,1,0,116,15,14.06
+libero_object,1804,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,2,35,clean,pick up the orange juice and place it in the basket,1,0,114,15,13.45
+libero_object,1805,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,clean,pick up the orange juice and place it in the basket,1,0,128,16,15.81
+libero_object,1806,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,4,37,clean,pick up the orange juice and place it in the basket,1,0,124,16,14.74
+libero_object,1807,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,4,38,clean,pick up the orange juice and place it in the basket,1,0,118,15,13.89
+libero_object,1808,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,5,39,clean,pick up the orange juice and place it in the basket,1,0,124,16,15.17
+libero_object,1809,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,pick up the orange juice and place it in the basket,0,0,280,35,31.56
+libero_object,1810,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,1,42,clean,pick up the orange juice and place it in the basket,1,0,118,15,185.45
+libero_object,1811,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,clean,pick up the orange juice and place it in the basket,1,0,117,15,182.88
+libero_object,1812,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,pick up the orange juice and place it in the basket,1,0,116,15,129.56
+libero_object,1813,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,3,45,clean,pick up the orange juice and place it in the basket,1,0,122,16,138.22
+libero_object,1814,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,clean,pick up the orange juice and place it in the basket,1,0,124,16,139.76
+libero_object,1815,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,pick up the orange juice and place it in the basket,0,0,280,35,281.82
+libero_object,1816,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,pick up the orange juice and place it in the basket,0,0,280,35,276.39
+libero_object,1817,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,pick up the orange juice and place it in the basket,0,0,280,35,154.7
+libero_object,1818,pick_up_the_orange_juice_and_place_it_in_the_basket_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,5,50,clean,pick up the orange juice and place it in the basket,0,0,280,35,156.75
+libero_object,2222,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_1,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,129,17,14.64
+libero_object,2223,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_10,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.1
+libero_object,2224,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_11,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.32
+libero_object,2225,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_12,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.17
+libero_object,2226,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_13,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,13.99
+libero_object,2227,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_14,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.07
+libero_object,2228,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_15,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.26
+libero_object,2229,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_16,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,13.78
+libero_object,2230,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_17,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,15.06
+libero_object,2231,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_18,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.49
+libero_object,2232,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_19,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.51
+libero_object,2233,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_2,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,29.62
+libero_object,2234,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_20,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.63
+libero_object,2235,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_21,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,15.16
+libero_object,2236,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_24,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,14.1
+libero_object,2237,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_25,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,126,16,14.73
+libero_object,2238,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_26,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,15.58
+libero_object,2239,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_27,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,19.02
+libero_object,2240,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_28,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,20.11
+libero_object,2241,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_29,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,19.01
+libero_object,2242,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_3,Light Conditions,4,,clean,pick up the alphabet soup and place it in the basket,1,0,129,17,18.41
+libero_object,2243,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_30,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,126,16,18.22
+libero_object,2244,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_31,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,126,16,19.28
+libero_object,2245,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_33,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,126,16,19.29
+libero_object,2246,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_35,Light Conditions,4,,clean,pick up the alphabet soup and place it in the basket,1,0,217,28,31.69
+libero_object,2247,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_36,Light Conditions,4,,clean,pick up the alphabet soup and place it in the basket,1,0,131,17,22.2
+libero_object,2248,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_38,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,17.81
+libero_object,2249,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_4,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,18.56
+libero_object,2250,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_41,Light Conditions,4,,clean,pick up the alphabet soup and place it in the basket,1,0,131,17,19.76
+libero_object,2251,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_42,Light Conditions,4,,clean,pick up the alphabet soup and place it in the basket,1,0,131,17,19.93
+libero_object,2252,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_43,Light Conditions,3,,clean,pick up the alphabet soup and place it in the basket,1,0,131,17,18.34
+libero_object,2253,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_45,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,19.62
+libero_object,2254,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_46,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,18.08
+libero_object,2255,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_47,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,17.31
+libero_object,2256,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_48,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,12.39
+libero_object,2257,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_49,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,12.72
+libero_object,2258,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_5,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,25.9
+libero_object,2259,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_50,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,12.72
+libero_object,2260,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_7,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,0,0,280,35,25.62
+libero_object,2261,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_8,Light Conditions,3,,clean,pick up the alphabet soup and place it in the basket,1,0,127,16,12.64
+libero_object,2262,pick_up_the_alphabet_soup_and_place_it_in_the_basket_light_9,Light Conditions,5,,clean,pick up the alphabet soup and place it in the basket,1,0,125,16,12.57
+libero_object,2263,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_1,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.02
+libero_object,2264,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_10,Light Conditions,5,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.29
+libero_object,2265,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_11,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.17
+libero_object,2266,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_12,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.22
+libero_object,2267,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_13,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.48
+libero_object,2268,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_14,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.3
+libero_object,2269,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_15,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.51
+libero_object,2270,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_16,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.06
+libero_object,2271,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_17,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.31
+libero_object,2272,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_18,Light Conditions,2,,clean,pick up the bbq sauce and place it in the basket,1,0,122,16,11.9
+libero_object,2273,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_19,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.18
+libero_object,2274,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_2,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,122,16,12.1
+libero_object,2275,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_20,Light Conditions,1,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.19
+libero_object,2276,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_21,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.24
+libero_object,2277,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_22,Light Conditions,2,,clean,pick up the bbq sauce and place it in the basket,1,0,124,16,12.1
+libero_object,2278,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_23,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.36
+libero_object,2279,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_24,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,124,16,12.4
+libero_object,2280,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_25,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.25
+libero_object,2281,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_26,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.22
+libero_object,2282,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_27,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.0
+libero_object,2283,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_28,Light Conditions,5,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.37
+libero_object,2284,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_29,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.2
+libero_object,2285,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_3,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,124,16,12.35
+libero_object,2286,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_30,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.24
+libero_object,2287,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_31,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.25
+libero_object,2288,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_32,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.26
+libero_object,2289,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_33,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.19
+libero_object,2290,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_34,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,11.91
+libero_object,2291,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_35,Light Conditions,5,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,11.68
+libero_object,2292,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_36,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.32
+libero_object,2293,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_37,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.21
+libero_object,2294,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_38,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.29
+libero_object,2295,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_39,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.3
+libero_object,2296,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_4,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.12
+libero_object,2297,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_40,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.2
+libero_object,2298,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_41,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.46
+libero_object,2299,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_42,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.13
+libero_object,2300,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_43,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.3
+libero_object,2301,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_44,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.17
+libero_object,2302,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_45,Light Conditions,5,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.23
+libero_object,2303,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_46,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.06
+libero_object,2304,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_47,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.29
+libero_object,2305,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_48,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.23
+libero_object,2306,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_49,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.14
+libero_object,2307,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_5,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,124,16,12.31
+libero_object,2308,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_50,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.42
+libero_object,2309,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_6,Light Conditions,4,,clean,pick up the bbq sauce and place it in the basket,1,0,123,16,12.19
+libero_object,2310,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_7,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,125,16,12.28
+libero_object,2311,pick_up_the_bbq_sauce_and_place_it_in_the_basket_light_9,Light Conditions,3,,clean,pick up the bbq sauce and place it in the basket,1,0,127,16,12.55
+libero_object,2312,pick_up_the_butter_and_place_it_in_the_basket_light_10,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,25.73
+libero_object,2313,pick_up_the_butter_and_place_it_in_the_basket_light_11,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.52
+libero_object,2314,pick_up_the_butter_and_place_it_in_the_basket_light_12,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,25.98
+libero_object,2315,pick_up_the_butter_and_place_it_in_the_basket_light_13,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.17
+libero_object,2316,pick_up_the_butter_and_place_it_in_the_basket_light_14,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.07
+libero_object,2317,pick_up_the_butter_and_place_it_in_the_basket_light_15,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.05
+libero_object,2318,pick_up_the_butter_and_place_it_in_the_basket_light_16,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.63
+libero_object,2319,pick_up_the_butter_and_place_it_in_the_basket_light_17,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,25.64
+libero_object,2320,pick_up_the_butter_and_place_it_in_the_basket_light_18,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.71
+libero_object,2321,pick_up_the_butter_and_place_it_in_the_basket_light_19,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.31
+libero_object,2322,pick_up_the_butter_and_place_it_in_the_basket_light_2,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.44
+libero_object,2323,pick_up_the_butter_and_place_it_in_the_basket_light_20,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.47
+libero_object,2324,pick_up_the_butter_and_place_it_in_the_basket_light_21,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.22
+libero_object,2325,pick_up_the_butter_and_place_it_in_the_basket_light_22,Light Conditions,3,,clean,pick up the butter and place it in the basket,0,0,280,35,27.07
+libero_object,2326,pick_up_the_butter_and_place_it_in_the_basket_light_23,Light Conditions,3,,clean,pick up the butter and place it in the basket,0,0,280,35,26.3
+libero_object,2327,pick_up_the_butter_and_place_it_in_the_basket_light_24,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.56
+libero_object,2328,pick_up_the_butter_and_place_it_in_the_basket_light_25,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.19
+libero_object,2329,pick_up_the_butter_and_place_it_in_the_basket_light_26,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.92
+libero_object,2330,pick_up_the_butter_and_place_it_in_the_basket_light_27,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.9
+libero_object,2331,pick_up_the_butter_and_place_it_in_the_basket_light_28,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.66
+libero_object,2332,pick_up_the_butter_and_place_it_in_the_basket_light_29,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.43
+libero_object,2333,pick_up_the_butter_and_place_it_in_the_basket_light_30,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.62
+libero_object,2334,pick_up_the_butter_and_place_it_in_the_basket_light_31,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.14
+libero_object,2335,pick_up_the_butter_and_place_it_in_the_basket_light_32,Light Conditions,3,,clean,pick up the butter and place it in the basket,0,0,280,35,26.65
+libero_object,2336,pick_up_the_butter_and_place_it_in_the_basket_light_33,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.58
+libero_object,2337,pick_up_the_butter_and_place_it_in_the_basket_light_34,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.8
+libero_object,2338,pick_up_the_butter_and_place_it_in_the_basket_light_35,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.56
+libero_object,2339,pick_up_the_butter_and_place_it_in_the_basket_light_36,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.38
+libero_object,2340,pick_up_the_butter_and_place_it_in_the_basket_light_37,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.34
+libero_object,2341,pick_up_the_butter_and_place_it_in_the_basket_light_38,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,26.5
+libero_object,2342,pick_up_the_butter_and_place_it_in_the_basket_light_39,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,25.93
+libero_object,2343,pick_up_the_butter_and_place_it_in_the_basket_light_4,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.56
+libero_object,2344,pick_up_the_butter_and_place_it_in_the_basket_light_40,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,27.65
+libero_object,2345,pick_up_the_butter_and_place_it_in_the_basket_light_41,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.1
+libero_object,2346,pick_up_the_butter_and_place_it_in_the_basket_light_42,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.57
+libero_object,2347,pick_up_the_butter_and_place_it_in_the_basket_light_43,Light Conditions,4,,clean,pick up the butter and place it in the basket,0,0,280,35,27.36
+libero_object,2348,pick_up_the_butter_and_place_it_in_the_basket_light_44,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.26
+libero_object,2349,pick_up_the_butter_and_place_it_in_the_basket_light_46,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,26.6
+libero_object,2350,pick_up_the_butter_and_place_it_in_the_basket_light_48,Light Conditions,4,,clean,pick up the butter and place it in the basket,1,0,131,17,13.65
+libero_object,2351,pick_up_the_butter_and_place_it_in_the_basket_light_49,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.5
+libero_object,2352,pick_up_the_butter_and_place_it_in_the_basket_light_5,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.42
+libero_object,2353,pick_up_the_butter_and_place_it_in_the_basket_light_50,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.26
+libero_object,2354,pick_up_the_butter_and_place_it_in_the_basket_light_6,Light Conditions,1,,clean,pick up the butter and place it in the basket,1,0,142,18,14.43
+libero_object,2355,pick_up_the_butter_and_place_it_in_the_basket_light_7,Light Conditions,5,,clean,pick up the butter and place it in the basket,0,0,280,35,27.14
+libero_object,2356,pick_up_the_butter_and_place_it_in_the_basket_light_9,Light Conditions,3,,clean,pick up the butter and place it in the basket,0,0,280,35,27.8
+libero_object,2357,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_1,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,15.23
+libero_object,2358,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_11,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,200,25,19.94
+libero_object,2359,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_13,Light Conditions,5,,clean,pick up the chocolate pudding and place it in the basket,1,0,206,26,20.07
+libero_object,2360,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_15,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,15.3
+libero_object,2361,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_16,Light Conditions,5,,clean,pick up the chocolate pudding and place it in the basket,1,0,203,26,20.42
+libero_object,2362,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_18,Light Conditions,5,,clean,pick up the chocolate pudding and place it in the basket,1,0,201,26,20.45
+libero_object,2363,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_2,Light Conditions,5,,clean,pick up the chocolate pudding and place it in the basket,1,0,202,26,21.57
+libero_object,2364,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_20,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,201,26,24.67
+libero_object,2365,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_24,Light Conditions,5,,clean,pick up the chocolate pudding and place it in the basket,0,0,280,35,32.57
+libero_object,2366,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_26,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,18.31
+libero_object,2367,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_27,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,205,26,24.23
+libero_object,2368,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_29,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.3
+libero_object,2369,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_30,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,18.04
+libero_object,2370,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_31,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,18.56
+libero_object,2371,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_33,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,18.39
+libero_object,2372,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_34,Light Conditions,5,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,18.07
+libero_object,2373,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_35,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,16.77
+libero_object,2374,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_36,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,18.2
+libero_object,2375,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_37,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,154,20,18.89
+libero_object,2376,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_38,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.03
+libero_object,2377,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_39,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.79
+libero_object,2378,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_4,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.51
+libero_object,2379,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_40,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,16.74
+libero_object,2380,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_41,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.74
+libero_object,2381,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_42,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.56
+libero_object,2382,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_44,Light Conditions,5,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.37
+libero_object,2383,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_46,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.71
+libero_object,2384,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_49,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,152,19,17.53
+libero_object,2385,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_5,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,205,26,23.63
+libero_object,2386,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_7,Light Conditions,3,,clean,pick up the chocolate pudding and place it in the basket,1,0,204,26,23.32
+libero_object,2387,pick_up_the_chocolate_pudding_and_place_it_in_the_basket_light_9,Light Conditions,4,,clean,pick up the chocolate pudding and place it in the basket,1,0,207,26,23.58
+libero_object,2388,pick_up_the_cream_cheese_and_place_it_in_the_basket_light_11,Light Conditions,5,,clean,pick up the cream cheese and place it in the basket,0,0,280,35,31.05
+libero_object,2389,pick_up_the_cream_cheese_and_place_it_in_the_basket_light_15,Light Conditions,5,,clean,pick up the cream cheese and place it in the basket,0,0,280,35,29.83
+libero_object,2390,pick_up_the_cream_cheese_and_place_it_in_the_basket_light_24,Light Conditions,4,,clean,pick up the cream cheese and place it in the basket,1,0,123,16,14.62
+libero_object,2391,pick_up_the_cream_cheese_and_place_it_in_the_basket_light_37,Light Conditions,4,,clean,pick up the cream cheese and place it in the basket,1,0,123,16,14.42
+libero_object,2392,pick_up_the_ketchup_and_place_it_in_the_basket_light_10,Light Conditions,3,,clean,pick up the ketchup and place it in the basket,1,0,151,19,17.25
+libero_object,2393,pick_up_the_ketchup_and_place_it_in_the_basket_light_15,Light Conditions,5,,clean,pick up the ketchup and place it in the basket,0,0,280,35,30.71
+libero_object,2394,pick_up_the_ketchup_and_place_it_in_the_basket_light_2,Light Conditions,5,,clean,pick up the ketchup and place it in the basket,0,0,280,35,31.01
+libero_object,2395,pick_up_the_ketchup_and_place_it_in_the_basket_light_21,Light Conditions,5,,clean,pick up the ketchup and place it in the basket,1,0,151,19,16.37
+libero_object,2396,pick_up_the_ketchup_and_place_it_in_the_basket_light_24,Light Conditions,4,,clean,pick up the ketchup and place it in the basket,1,0,151,19,17.14
+libero_object,2397,pick_up_the_ketchup_and_place_it_in_the_basket_light_38,Light Conditions,4,,clean,pick up the ketchup and place it in the basket,1,0,151,19,16.98
+libero_object,2398,pick_up_the_ketchup_and_place_it_in_the_basket_light_39,Light Conditions,3,,clean,pick up the ketchup and place it in the basket,1,0,150,19,17.07
+libero_object,2399,pick_up_the_ketchup_and_place_it_in_the_basket_light_40,Light Conditions,3,,clean,pick up the ketchup and place it in the basket,1,0,150,19,17.54
+libero_object,2400,pick_up_the_ketchup_and_place_it_in_the_basket_light_44,Light Conditions,3,,clean,pick up the ketchup and place it in the basket,1,0,150,19,17.09
+libero_object,2401,pick_up_the_ketchup_and_place_it_in_the_basket_light_45,Light Conditions,4,,clean,pick up the ketchup and place it in the basket,1,0,150,19,16.84
+libero_object,2402,pick_up_the_ketchup_and_place_it_in_the_basket_light_50,Light Conditions,4,,clean,pick up the ketchup and place it in the basket,1,0,151,19,16.82
+libero_object,2403,pick_up_the_ketchup_and_place_it_in_the_basket_light_6,Light Conditions,5,,clean,pick up the ketchup and place it in the basket,0,0,280,35,33.18
+libero_object,2404,pick_up_the_ketchup_and_place_it_in_the_basket_light_8,Light Conditions,5,,clean,pick up the ketchup and place it in the basket,0,0,280,35,38.75
+libero_object,2405,pick_up_the_milk_and_place_it_in_the_basket_light_1,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,16.5
+libero_object,2406,pick_up_the_milk_and_place_it_in_the_basket_light_10,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,18.16
+libero_object,2407,pick_up_the_milk_and_place_it_in_the_basket_light_14,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,128,16,16.65
+libero_object,2408,pick_up_the_milk_and_place_it_in_the_basket_light_15,Light Conditions,2,,clean,pick up the milk and place it in the basket,1,0,121,16,17.57
+libero_object,2409,pick_up_the_milk_and_place_it_in_the_basket_light_18,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,129,17,19.25
+libero_object,2410,pick_up_the_milk_and_place_it_in_the_basket_light_21,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,18.07
+libero_object,2411,pick_up_the_milk_and_place_it_in_the_basket_light_22,Light Conditions,2,,clean,pick up the milk and place it in the basket,1,0,122,16,17.94
+libero_object,2412,pick_up_the_milk_and_place_it_in_the_basket_light_25,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,125,16,17.37
+libero_object,2413,pick_up_the_milk_and_place_it_in_the_basket_light_26,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,122,16,19.13
+libero_object,2414,pick_up_the_milk_and_place_it_in_the_basket_light_27,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,127,16,18.36
+libero_object,2415,pick_up_the_milk_and_place_it_in_the_basket_light_30,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,122,16,18.26
+libero_object,2416,pick_up_the_milk_and_place_it_in_the_basket_light_32,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,16.61
+libero_object,2417,pick_up_the_milk_and_place_it_in_the_basket_light_37,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,18.06
+libero_object,2418,pick_up_the_milk_and_place_it_in_the_basket_light_38,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,18.17
+libero_object,2419,pick_up_the_milk_and_place_it_in_the_basket_light_39,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,123,16,18.73
+libero_object,2420,pick_up_the_milk_and_place_it_in_the_basket_light_41,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,16.44
+libero_object,2421,pick_up_the_milk_and_place_it_in_the_basket_light_42,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,123,16,18.14
+libero_object,2422,pick_up_the_milk_and_place_it_in_the_basket_light_44,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,18.04
+libero_object,2423,pick_up_the_milk_and_place_it_in_the_basket_light_46,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,123,16,18.12
+libero_object,2424,pick_up_the_milk_and_place_it_in_the_basket_light_47,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,123,16,16.35
+libero_object,2425,pick_up_the_milk_and_place_it_in_the_basket_light_48,Light Conditions,5,,clean,pick up the milk and place it in the basket,1,0,123,16,17.82
+libero_object,2426,pick_up_the_milk_and_place_it_in_the_basket_light_5,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,17.49
+libero_object,2427,pick_up_the_milk_and_place_it_in_the_basket_light_50,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,18.26
+libero_object,2428,pick_up_the_milk_and_place_it_in_the_basket_light_6,Light Conditions,3,,clean,pick up the milk and place it in the basket,1,0,123,16,16.88
+libero_object,2429,pick_up_the_milk_and_place_it_in_the_basket_light_7,Light Conditions,4,,clean,pick up the milk and place it in the basket,1,0,123,16,14.77
+libero_object,2430,pick_up_the_milk_and_place_it_in_the_basket_light_8,Light Conditions,5,,clean,pick up the milk and place it in the basket,1,0,123,16,15.31
+libero_object,2431,pick_up_the_orange_juice_and_place_it_in_the_basket_light_10,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,15.77
+libero_object,2432,pick_up_the_orange_juice_and_place_it_in_the_basket_light_11,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,15.78
+libero_object,2433,pick_up_the_orange_juice_and_place_it_in_the_basket_light_12,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,15.23
+libero_object,2434,pick_up_the_orange_juice_and_place_it_in_the_basket_light_13,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,129,17,15.93
+libero_object,2435,pick_up_the_orange_juice_and_place_it_in_the_basket_light_15,Light Conditions,3,,clean,pick up the orange juice and place it in the basket,1,0,129,17,15.9
+libero_object,2436,pick_up_the_orange_juice_and_place_it_in_the_basket_light_16,Light Conditions,5,,clean,pick up the orange juice and place it in the basket,1,0,128,16,15.55
+libero_object,2437,pick_up_the_orange_juice_and_place_it_in_the_basket_light_17,Light Conditions,5,,clean,pick up the orange juice and place it in the basket,1,0,129,17,15.3
+libero_object,2438,pick_up_the_orange_juice_and_place_it_in_the_basket_light_18,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,128,16,15.46
+libero_object,2439,pick_up_the_orange_juice_and_place_it_in_the_basket_light_19,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,129,17,16.05
+libero_object,2440,pick_up_the_orange_juice_and_place_it_in_the_basket_light_2,Light Conditions,3,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.57
+libero_object,2441,pick_up_the_orange_juice_and_place_it_in_the_basket_light_20,Light Conditions,3,,clean,pick up the orange juice and place it in the basket,1,0,128,16,13.03
+libero_object,2442,pick_up_the_orange_juice_and_place_it_in_the_basket_light_21,Light Conditions,5,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.98
+libero_object,2443,pick_up_the_orange_juice_and_place_it_in_the_basket_light_22,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.17
+libero_object,2444,pick_up_the_orange_juice_and_place_it_in_the_basket_light_24,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.91
+libero_object,2445,pick_up_the_orange_juice_and_place_it_in_the_basket_light_25,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.16
+libero_object,2446,pick_up_the_orange_juice_and_place_it_in_the_basket_light_26,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.27
+libero_object,2447,pick_up_the_orange_juice_and_place_it_in_the_basket_light_27,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.93
+libero_object,2448,pick_up_the_orange_juice_and_place_it_in_the_basket_light_28,Light Conditions,3,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.08
+libero_object,2449,pick_up_the_orange_juice_and_place_it_in_the_basket_light_29,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.82
+libero_object,2450,pick_up_the_orange_juice_and_place_it_in_the_basket_light_31,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.23
+libero_object,2451,pick_up_the_orange_juice_and_place_it_in_the_basket_light_33,Light Conditions,3,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.04
+libero_object,2452,pick_up_the_orange_juice_and_place_it_in_the_basket_light_35,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.0
+libero_object,2453,pick_up_the_orange_juice_and_place_it_in_the_basket_light_36,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.75
+libero_object,2454,pick_up_the_orange_juice_and_place_it_in_the_basket_light_39,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.0
+libero_object,2455,pick_up_the_orange_juice_and_place_it_in_the_basket_light_41,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.18
+libero_object,2456,pick_up_the_orange_juice_and_place_it_in_the_basket_light_43,Light Conditions,5,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.3
+libero_object,2457,pick_up_the_orange_juice_and_place_it_in_the_basket_light_44,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.74
+libero_object,2458,pick_up_the_orange_juice_and_place_it_in_the_basket_light_46,Light Conditions,3,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.05
+libero_object,2459,pick_up_the_orange_juice_and_place_it_in_the_basket_light_49,Light Conditions,3,,clean,pick up the orange juice and place it in the basket,1,0,122,16,13.22
+libero_object,2460,pick_up_the_orange_juice_and_place_it_in_the_basket_light_5,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.91
+libero_object,2461,pick_up_the_orange_juice_and_place_it_in_the_basket_light_50,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,120,15,12.79
+libero_object,2462,pick_up_the_orange_juice_and_place_it_in_the_basket_light_6,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.82
+libero_object,2463,pick_up_the_orange_juice_and_place_it_in_the_basket_light_7,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,13.52
+libero_object,2464,pick_up_the_orange_juice_and_place_it_in_the_basket_light_8,Light Conditions,4,,clean,pick up the orange juice and place it in the basket,1,0,130,17,14.01
+libero_object,2465,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_10,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.41
+libero_object,2466,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_11,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.44
+libero_object,2467,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_13,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.55
+libero_object,2468,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_14,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.46
+libero_object,2469,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_15,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.15
+libero_object,2470,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_16,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.37
+libero_object,2471,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_18,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,12.94
+libero_object,2472,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_19,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.63
+libero_object,2473,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_2,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.42
+libero_object,2474,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_21,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.42
+libero_object,2475,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_22,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.02
+libero_object,2476,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_23,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.22
+libero_object,2477,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_3,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.18
+libero_object,2478,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_30,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.19
+libero_object,2479,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_32,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.06
+libero_object,2480,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_33,Light Conditions,2,,clean,pick up the salad dressing and place it in the basket,1,0,120,15,13.53
+libero_object,2481,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_34,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.7
+libero_object,2482,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_35,Light Conditions,2,,clean,pick up the salad dressing and place it in the basket,1,0,120,15,13.65
+libero_object,2483,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_36,Light Conditions,2,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.02
+libero_object,2484,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_37,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,119,15,13.61
+libero_object,2485,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_38,Light Conditions,2,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.27
+libero_object,2486,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_39,Light Conditions,2,,clean,pick up the salad dressing and place it in the basket,1,0,121,16,14.31
+libero_object,2487,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_4,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.09
+libero_object,2488,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_40,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,118,15,12.97
+libero_object,2489,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_43,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,13.67
+libero_object,2490,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_44,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,118,15,13.03
+libero_object,2491,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_45,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,118,15,12.95
+libero_object,2492,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_48,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,119,15,13.27
+libero_object,2493,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_49,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,118,15,13.2
+libero_object,2494,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_5,Light Conditions,4,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.35
+libero_object,2495,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_50,Light Conditions,5,,clean,pick up the salad dressing and place it in the basket,1,0,110,14,12.19
+libero_object,2496,pick_up_the_salad_dressing_and_place_it_in_the_basket_light_8,Light Conditions,3,,clean,pick up the salad dressing and place it in the basket,1,0,126,16,14.1
+libero_object,2497,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_1,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,12.88
+libero_object,2498,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_11,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,12.93
+libero_object,2499,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_12,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.19
+libero_object,2500,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_13,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.47
+libero_object,2501,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_14,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,12.77
+libero_object,2502,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_19,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.12
+libero_object,2503,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_2,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.22
+libero_object,2504,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_20,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.16
+libero_object,2505,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_22,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.25
+libero_object,2506,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_23,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.41
+libero_object,2507,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_24,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.96
+libero_object,2508,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_25,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.8
+libero_object,2509,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_28,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.38
+libero_object,2510,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_29,Light Conditions,4,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.21
+libero_object,2511,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_30,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,13.05
+libero_object,2512,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_31,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,12.94
+libero_object,2513,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_32,Light Conditions,4,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,19.04
+libero_object,2514,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_38,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,18.27
+libero_object,2515,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_39,Light Conditions,4,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,19.31
+libero_object,2516,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_41,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,121,16,17.44
+libero_object,2517,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_5,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,16.61
+libero_object,2518,pick_up_the_tomato_sauce_and_place_it_in_the_basket_light_8,Light Conditions,5,,clean,pick up the tomato sauce and place it in the basket,1,0,120,15,15.96

@@ -1,0 +1,659 @@
+suite,task_id,name,category,level,noise_code,lang_mode,language,success,error,policy_steps,n_queries,wall_s
+libero_goal,1509,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,clean,open the middle drawer of the cabinet,1,0,137,18,31.73
+libero_goal,1510,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,open the middle drawer of the cabinet,1,0,144,18,32.68
+libero_goal,1511,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,open the middle drawer of the cabinet,1,0,143,18,33.16
+libero_goal,1512,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,open the middle drawer of the cabinet,1,0,135,17,33.01
+libero_goal,1513,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,open the middle drawer of the cabinet,1,0,135,17,34.43
+libero_goal,1514,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,4,6,clean,open the middle drawer of the cabinet,1,0,130,17,29.71
+libero_goal,1515,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,open the middle drawer of the cabinet,1,0,126,16,27.19
+libero_goal,1516,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,open the middle drawer of the cabinet,1,0,132,17,31.02
+libero_goal,1517,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,5,9,clean,open the middle drawer of the cabinet,1,0,131,17,32.88
+libero_goal,1518,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,open the middle drawer of the cabinet,1,0,131,17,35.15
+libero_goal,1519,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,open the middle drawer of the cabinet,1,0,151,19,14.61
+libero_goal,1520,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,4,13,clean,open the middle drawer of the cabinet,1,0,134,17,13.46
+libero_goal,1521,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,3,14,clean,open the middle drawer of the cabinet,1,0,125,16,13.21
+libero_goal,1522,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,open the middle drawer of the cabinet,1,0,130,17,13.96
+libero_goal,1523,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,open the middle drawer of the cabinet,1,0,130,17,13.77
+libero_goal,1524,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,open the middle drawer of the cabinet,1,0,131,17,14.23
+libero_goal,1525,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,clean,open the middle drawer of the cabinet,1,0,131,17,14.29
+libero_goal,1526,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,open the middle drawer of the cabinet,1,0,130,17,14.6
+libero_goal,1527,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,open the middle drawer of the cabinet,1,0,131,17,14.63
+libero_goal,1528,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_21,Sensor Noise,3,21,clean,open the middle drawer of the cabinet,1,0,136,17,29.62
+libero_goal,1529,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,1,23,clean,open the middle drawer of the cabinet,1,0,167,21,33.14
+libero_goal,1530,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,open the middle drawer of the cabinet,1,0,151,19,33.54
+libero_goal,1531,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,clean,open the middle drawer of the cabinet,1,0,146,19,29.86
+libero_goal,1532,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,1,26,clean,open the middle drawer of the cabinet,1,0,139,18,63.09
+libero_goal,1533,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,clean,open the middle drawer of the cabinet,1,0,126,16,60.5
+libero_goal,1534,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,4,28,clean,open the middle drawer of the cabinet,1,0,123,16,38.8
+libero_goal,1535,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,1,35,clean,open the middle drawer of the cabinet,1,0,147,19,14.79
+libero_goal,1536,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,clean,open the middle drawer of the cabinet,1,0,152,19,14.58
+libero_goal,1537,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,open the middle drawer of the cabinet,1,0,139,18,13.91
+libero_goal,1538,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,3,38,clean,open the middle drawer of the cabinet,1,0,123,16,12.45
+libero_goal,1539,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,open the middle drawer of the cabinet,1,0,121,16,12.37
+libero_goal,1540,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,open the middle drawer of the cabinet,1,0,125,16,12.56
+libero_goal,1541,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,clean,open the middle drawer of the cabinet,1,0,145,19,220.47
+libero_goal,1542,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,1,42,clean,open the middle drawer of the cabinet,1,0,146,19,221.03
+libero_goal,1543,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,clean,open the middle drawer of the cabinet,1,0,133,17,201.05
+libero_goal,1544,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,open the middle drawer of the cabinet,1,0,135,17,140.4
+libero_goal,1545,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,3,45,clean,open the middle drawer of the cabinet,1,0,124,16,128.81
+libero_goal,1546,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,clean,open the middle drawer of the cabinet,1,0,123,16,128.46
+libero_goal,1547,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,open the middle drawer of the cabinet,1,0,130,17,133.13
+libero_goal,1548,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,open the middle drawer of the cabinet,1,0,130,17,132.69
+libero_goal,1549,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,open the middle drawer of the cabinet,1,0,128,16,71.74
+libero_goal,1550,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,open the middle drawer of the cabinet,1,0,128,16,71.83
+libero_goal,1551,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,1,4,clean,put the bowl on the stove,1,0,88,11,17.93
+libero_goal,1552,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,1,5,clean,put the bowl on the stove,1,0,87,11,18.55
+libero_goal,1553,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,clean,put the bowl on the stove,1,0,88,11,19.91
+libero_goal,1554,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,put the bowl on the stove,1,0,93,12,21.92
+libero_goal,1555,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,put the bowl on the stove,1,0,92,12,21.79
+libero_goal,1556,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,clean,put the bowl on the stove,1,0,94,12,24.18
+libero_goal,1557,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,put the bowl on the stove,1,0,88,11,9.27
+libero_goal,1558,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,clean,put the bowl on the stove,1,0,90,12,9.97
+libero_goal,1559,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,3,15,clean,put the bowl on the stove,1,0,96,12,10.49
+libero_goal,1560,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,put the bowl on the stove,1,0,94,12,10.14
+libero_goal,1561,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,4,17,clean,put the bowl on the stove,1,0,94,12,10.46
+libero_goal,1562,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,clean,put the bowl on the stove,1,0,95,12,10.86
+libero_goal,1563,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,4,19,clean,put the bowl on the stove,1,0,92,12,10.66
+libero_goal,1564,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,put the bowl on the stove,1,0,92,12,11.32
+libero_goal,1565,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,clean,put the bowl on the stove,1,0,88,11,19.09
+libero_goal,1566,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,1,26,clean,put the bowl on the stove,1,0,88,11,41.23
+libero_goal,1567,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,clean,put the bowl on the stove,1,0,90,12,45.48
+libero_goal,1568,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,2,28,clean,put the bowl on the stove,1,0,95,12,30.66
+libero_goal,1569,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,put the bowl on the stove,1,0,89,12,31.55
+libero_goal,1570,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,clean,put the bowl on the stove,1,0,87,11,8.93
+libero_goal,1571,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,clean,put the bowl on the stove,1,0,85,11,8.98
+libero_goal,1572,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,2,38,clean,put the bowl on the stove,1,0,90,12,10.17
+libero_goal,1573,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,put the bowl on the stove,1,0,90,12,141.97
+libero_goal,1574,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,put the bowl on the stove,1,0,88,11,94.66
+libero_goal,1575,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,clean,put the bowl on the stove,1,0,90,12,96.35
+libero_goal,1576,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,put the bowl on the stove,1,0,93,12,98.69
+libero_goal,1577,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,3,48,clean,put the bowl on the stove,1,0,91,12,95.83
+libero_goal,1578,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,3,49,clean,put the bowl on the stove,1,0,96,12,55.02
+libero_goal,1579,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,3,50,clean,put the bowl on the stove,1,0,96,12,55.59
+libero_goal,1580,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,1,1,clean,put the wine bottle on top of the cabinet,1,0,78,10,14.97
+libero_goal,1581,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,put the wine bottle on top of the cabinet,1,0,77,10,15.3
+libero_goal,1582,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,put the wine bottle on top of the cabinet,1,0,78,10,16.31
+libero_goal,1583,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,put the wine bottle on top of the cabinet,1,0,79,10,17.17
+libero_goal,1584,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,3,6,clean,put the wine bottle on top of the cabinet,1,0,78,10,17.56
+libero_goal,1585,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,3,7,clean,put the wine bottle on top of the cabinet,1,0,77,10,18.27
+libero_goal,1586,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,put the wine bottle on top of the cabinet,1,0,78,10,19.79
+libero_goal,1587,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,clean,put the wine bottle on top of the cabinet,1,0,80,10,21.01
+libero_goal,1588,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,put the wine bottle on top of the cabinet,1,0,81,11,24.63
+libero_goal,1589,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,1,11,clean,put the wine bottle on top of the cabinet,1,0,78,10,8.84
+libero_goal,1590,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,put the wine bottle on top of the cabinet,1,0,80,10,9.05
+libero_goal,1591,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,clean,put the wine bottle on top of the cabinet,1,0,80,10,9.08
+libero_goal,1592,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,2,15,clean,put the wine bottle on top of the cabinet,1,0,77,10,9.26
+libero_goal,1593,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,3,16,clean,put the wine bottle on top of the cabinet,1,0,77,10,9.2
+libero_goal,1594,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,3,17,clean,put the wine bottle on top of the cabinet,1,0,76,10,9.42
+libero_goal,1595,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,clean,put the wine bottle on top of the cabinet,1,0,75,10,9.56
+libero_goal,1596,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,put the wine bottle on top of the cabinet,1,0,75,10,9.64
+libero_goal,1597,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,2,22,clean,put the wine bottle on top of the cabinet,1,0,77,10,21.81
+libero_goal,1598,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,clean,put the wine bottle on top of the cabinet,1,0,71,9,15.89
+libero_goal,1599,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,clean,put the wine bottle on top of the cabinet,1,0,71,9,38.62
+libero_goal,1600,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,2,28,clean,put the wine bottle on top of the cabinet,1,0,71,9,24.49
+libero_goal,1601,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,clean,put the wine bottle on top of the cabinet,1,0,70,9,26.11
+libero_goal,1602,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,put the wine bottle on top of the cabinet,1,0,70,9,22.57
+libero_goal,1603,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,1,31,clean,put the wine bottle on top of the cabinet,1,0,79,10,8.74
+libero_goal,1604,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,clean,put the wine bottle on top of the cabinet,1,0,78,10,8.75
+libero_goal,1605,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,clean,put the wine bottle on top of the cabinet,1,0,78,10,8.67
+libero_goal,1606,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,2,38,clean,put the wine bottle on top of the cabinet,1,0,79,10,8.49
+libero_goal,1607,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,put the wine bottle on top of the cabinet,1,0,79,10,8.57
+libero_goal,1608,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,put the wine bottle on top of the cabinet,1,0,77,10,8.86
+libero_goal,1609,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,clean,put the wine bottle on top of the cabinet,1,0,79,10,130.32
+libero_goal,1610,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,put the wine bottle on top of the cabinet,1,0,80,10,130.02
+libero_goal,1611,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,put the wine bottle on top of the cabinet,1,0,79,10,92.22
+libero_goal,1612,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,clean,put the wine bottle on top of the cabinet,1,0,79,10,89.9
+libero_goal,1613,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,put the wine bottle on top of the cabinet,1,0,79,10,90.21
+libero_goal,1614,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,2,47,clean,put the wine bottle on top of the cabinet,1,0,78,10,91.98
+libero_goal,1615,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,2,48,clean,put the wine bottle on top of the cabinet,1,0,78,10,93.13
+libero_goal,1616,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,2,49,clean,put the wine bottle on top of the cabinet,1,0,77,10,50.53
+libero_goal,1617,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,2,50,clean,put the wine bottle on top of the cabinet,1,0,77,10,50.3
+libero_goal,1618,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,1,1,clean,open the top drawer and put the bowl inside,1,0,286,36,54.66
+libero_goal,1619,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,open the top drawer and put the bowl inside,0,0,300,38,58.04
+libero_goal,1620,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,open the top drawer and put the bowl inside,1,0,165,21,32.59
+libero_goal,1621,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,3,5,clean,open the top drawer and put the bowl inside,1,0,172,22,36.42
+libero_goal,1622,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,open the top drawer and put the bowl inside,1,0,192,24,40.35
+libero_goal,1623,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,5,8,clean,open the top drawer and put the bowl inside,1,0,195,25,48.25
+libero_goal,1624,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,5,9,clean,open the top drawer and put the bowl inside,1,0,221,28,57.28
+libero_goal,1625,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,open the top drawer and put the bowl inside,0,0,300,38,81.13
+libero_goal,1626,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,2,11,clean,open the top drawer and put the bowl inside,1,0,230,29,25.54
+libero_goal,1627,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,open the top drawer and put the bowl inside,1,0,203,26,23.51
+libero_goal,1628,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,open the top drawer and put the bowl inside,1,0,209,27,23.57
+libero_goal,1629,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,5,15,clean,open the top drawer and put the bowl inside,1,0,194,25,22.73
+libero_goal,1630,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,clean,open the top drawer and put the bowl inside,1,0,192,24,22.43
+libero_goal,1631,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,open the top drawer and put the bowl inside,1,0,201,26,24.09
+libero_goal,1632,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,open the top drawer and put the bowl inside,0,0,300,38,35.34
+libero_goal,1633,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,open the top drawer and put the bowl inside,0,0,300,38,36.77
+libero_goal,1634,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_21,Sensor Noise,2,21,clean,open the top drawer and put the bowl inside,1,0,208,26,47.16
+libero_goal,1635,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,2,22,clean,open the top drawer and put the bowl inside,1,0,216,27,57.53
+libero_goal,1636,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,3,23,clean,open the top drawer and put the bowl inside,1,0,217,28,53.13
+libero_goal,1637,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,open the top drawer and put the bowl inside,1,0,213,27,52.13
+libero_goal,1638,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,clean,open the top drawer and put the bowl inside,1,0,196,25,104.09
+libero_goal,1639,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,5,28,clean,open the top drawer and put the bowl inside,0,0,300,38,89.54
+libero_goal,1640,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,open the top drawer and put the bowl inside,0,0,300,38,79.84
+libero_goal,1641,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,3,31,clean,open the top drawer and put the bowl inside,0,0,300,38,27.92
+libero_goal,1642,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,2,32,clean,open the top drawer and put the bowl inside,1,0,169,22,17.36
+libero_goal,1643,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,3,33,clean,open the top drawer and put the bowl inside,1,0,167,21,16.41
+libero_goal,1644,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,3,35,clean,open the top drawer and put the bowl inside,1,0,168,21,16.76
+libero_goal,1645,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,clean,open the top drawer and put the bowl inside,0,0,300,38,28.48
+libero_goal,1646,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,4,37,clean,open the top drawer and put the bowl inside,1,0,167,21,16.36
+libero_goal,1647,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,4,38,clean,open the top drawer and put the bowl inside,1,0,208,26,20.01
+libero_goal,1648,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,open the top drawer and put the bowl inside,0,0,300,38,29.55
+libero_goal,1649,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,open the top drawer and put the bowl inside,1,0,171,22,259.93
+libero_goal,1650,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,3,42,clean,open the top drawer and put the bowl inside,1,0,171,22,256.44
+libero_goal,1651,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,open the top drawer and put the bowl inside,1,0,222,28,324.26
+libero_goal,1652,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,open the top drawer and put the bowl inside,1,0,217,28,219.06
+libero_goal,1653,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,clean,open the top drawer and put the bowl inside,0,0,300,38,299.83
+libero_goal,1654,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,3,46,clean,open the top drawer and put the bowl inside,0,0,300,38,295.72
+libero_goal,1655,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,5,47,clean,open the top drawer and put the bowl inside,1,0,204,26,203.26
+libero_goal,1656,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,5,48,clean,open the top drawer and put the bowl inside,1,0,203,26,206.01
+libero_goal,1657,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,5,49,clean,open the top drawer and put the bowl inside,0,0,300,38,172.97
+libero_goal,1658,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,5,50,clean,open the top drawer and put the bowl inside,1,0,194,25,112.1
+libero_goal,1659,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,clean,put the bowl on top of the cabinet,1,0,85,11,17.6
+libero_goal,1660,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,4,2,clean,put the bowl on top of the cabinet,1,0,86,11,18.27
+libero_goal,1661,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,5,4,clean,put the bowl on top of the cabinet,1,0,84,11,18.55
+libero_goal,1662,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,5,5,clean,put the bowl on top of the cabinet,1,0,83,11,20.39
+libero_goal,1663,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,5,6,clean,put the bowl on top of the cabinet,0,0,300,38,67.13
+libero_goal,1664,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,put the bowl on top of the cabinet,0,0,300,38,68.18
+libero_goal,1665,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,put the bowl on top of the cabinet,0,0,300,38,70.75
+libero_goal,1666,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,5,9,clean,put the bowl on top of the cabinet,0,0,300,38,75.54
+libero_goal,1667,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,put the bowl on top of the cabinet,0,0,300,38,85.44
+libero_goal,1668,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,4,11,clean,put the bowl on top of the cabinet,1,0,82,11,10.71
+libero_goal,1669,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,3,12,clean,put the bowl on top of the cabinet,1,0,83,11,10.17
+libero_goal,1670,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,4,13,clean,put the bowl on top of the cabinet,1,0,84,11,10.73
+libero_goal,1671,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,put the bowl on top of the cabinet,1,0,87,11,10.99
+libero_goal,1672,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,put the bowl on top of the cabinet,1,0,91,12,11.52
+libero_goal,1673,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,clean,put the bowl on top of the cabinet,1,0,86,11,11.25
+libero_goal,1674,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,clean,put the bowl on top of the cabinet,1,0,132,17,16.59
+libero_goal,1675,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,clean,put the bowl on top of the cabinet,0,0,300,38,35.36
+libero_goal,1676,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,put the bowl on top of the cabinet,0,0,300,38,35.72
+libero_goal,1677,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,put the bowl on top of the cabinet,0,0,300,38,46.72
+libero_goal,1678,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_21,Sensor Noise,2,21,clean,put the bowl on top of the cabinet,1,0,85,11,23.2
+libero_goal,1679,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,4,22,clean,put the bowl on top of the cabinet,1,0,83,11,27.29
+libero_goal,1680,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,2,23,clean,put the bowl on top of the cabinet,1,0,84,11,23.28
+libero_goal,1681,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,4,25,clean,put the bowl on top of the cabinet,1,0,83,11,22.33
+libero_goal,1682,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,4,26,clean,put the bowl on top of the cabinet,1,0,87,11,46.72
+libero_goal,1683,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,5,27,clean,put the bowl on top of the cabinet,1,0,86,11,49.21
+libero_goal,1684,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,4,28,clean,put the bowl on top of the cabinet,1,0,84,11,32.3
+libero_goal,1685,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,clean,put the bowl on top of the cabinet,1,0,86,11,36.23
+libero_goal,1686,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,put the bowl on top of the cabinet,0,0,300,38,95.32
+libero_goal,1687,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,2,32,clean,put the bowl on top of the cabinet,1,0,85,11,14.04
+libero_goal,1688,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,4,33,clean,put the bowl on top of the cabinet,1,0,87,11,11.52
+libero_goal,1689,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,3,34,clean,put the bowl on top of the cabinet,1,0,86,11,12.98
+libero_goal,1690,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,4,35,clean,put the bowl on top of the cabinet,1,0,87,11,13.22
+libero_goal,1691,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,3,36,clean,put the bowl on top of the cabinet,1,0,84,11,13.31
+libero_goal,1692,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,4,37,clean,put the bowl on top of the cabinet,1,0,87,11,12.98
+libero_goal,1693,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,5,38,clean,put the bowl on top of the cabinet,1,0,88,11,10.81
+libero_goal,1694,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,5,39,clean,put the bowl on top of the cabinet,0,0,300,38,33.92
+libero_goal,1695,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,clean,put the bowl on top of the cabinet,0,0,300,38,34.11
+libero_goal,1696,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,4,41,clean,put the bowl on top of the cabinet,1,0,82,11,138.39
+libero_goal,1697,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,3,42,clean,put the bowl on top of the cabinet,1,0,82,11,138.36
+libero_goal,1698,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,4,43,clean,put the bowl on top of the cabinet,1,0,82,11,133.71
+libero_goal,1699,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,4,44,clean,put the bowl on top of the cabinet,1,0,85,11,95.23
+libero_goal,1700,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,clean,put the bowl on top of the cabinet,1,0,87,11,96.64
+libero_goal,1701,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,put the bowl on top of the cabinet,0,0,300,38,304.67
+libero_goal,1702,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,put the bowl on top of the cabinet,0,0,300,38,309.68
+libero_goal,1703,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,put the bowl on top of the cabinet,1,0,86,11,55.84
+libero_goal,1704,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,5,50,clean,put the bowl on top of the cabinet,1,0,85,11,56.27
+libero_goal,1705,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,1,3,clean,push the plate to the front of the stove,1,0,125,16,29.93
+libero_goal,1706,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,push the plate to the front of the stove,1,0,127,16,31.25
+libero_goal,1707,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,push the plate to the front of the stove,1,0,135,17,34.82
+libero_goal,1708,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,clean,push the plate to the front of the stove,1,0,136,17,35.52
+libero_goal,1709,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,push the plate to the front of the stove,1,0,144,18,39.07
+libero_goal,1710,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,5,8,clean,push the plate to the front of the stove,1,0,160,20,45.09
+libero_goal,1711,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,push the plate to the front of the stove,0,0,300,38,87.88
+libero_goal,1712,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,1,11,clean,push the plate to the front of the stove,1,0,125,16,12.6
+libero_goal,1713,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,push the plate to the front of the stove,1,0,129,17,13.6
+libero_goal,1714,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,3,14,clean,push the plate to the front of the stove,1,0,142,18,14.98
+libero_goal,1715,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,5,15,clean,push the plate to the front of the stove,1,0,147,19,15.51
+libero_goal,1716,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,4,17,clean,push the plate to the front of the stove,0,0,300,38,30.68
+libero_goal,1717,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,4,19,clean,push the plate to the front of the stove,1,0,159,20,16.74
+libero_goal,1718,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,push the plate to the front of the stove,1,0,166,21,18.76
+libero_goal,1719,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,push the plate to the front of the stove,1,0,149,19,32.85
+libero_goal,1720,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,clean,push the plate to the front of the stove,1,0,167,21,33.57
+libero_goal,1721,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,clean,push the plate to the front of the stove,0,0,300,38,126.99
+libero_goal,1722,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,clean,push the plate to the front of the stove,0,0,300,38,139.31
+libero_goal,1723,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,4,28,clean,push the plate to the front of the stove,0,0,300,38,89.9
+libero_goal,1724,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,push the plate to the front of the stove,0,0,300,38,81.08
+libero_goal,1725,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,clean,push the plate to the front of the stove,1,0,127,16,12.46
+libero_goal,1726,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,push the plate to the front of the stove,1,0,132,17,13.35
+libero_goal,1727,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,4,38,clean,push the plate to the front of the stove,1,0,136,17,13.66
+libero_goal,1728,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,push the plate to the front of the stove,1,0,143,18,14.37
+libero_goal,1729,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,clean,push the plate to the front of the stove,1,0,147,19,14.82
+libero_goal,1730,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,clean,push the plate to the front of the stove,1,0,130,17,198.13
+libero_goal,1731,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,1,44,clean,push the plate to the front of the stove,1,0,131,17,135.61
+libero_goal,1732,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,clean,push the plate to the front of the stove,1,0,140,18,142.78
+libero_goal,1733,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,clean,push the plate to the front of the stove,1,0,141,18,143.75
+libero_goal,1734,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,push the plate to the front of the stove,0,0,300,38,291.41
+libero_goal,1735,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,3,48,clean,push the plate to the front of the stove,0,0,300,38,290.26
+libero_goal,1736,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,3,49,clean,push the plate to the front of the stove,1,0,141,18,78.27
+libero_goal,1737,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,5,50,clean,push the plate to the front of the stove,1,0,156,20,86.2
+libero_goal,1738,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,clean,put the cream cheese in the bowl,1,0,93,12,17.07
+libero_goal,1739,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,clean,put the cream cheese in the bowl,1,0,85,11,16.27
+libero_goal,1740,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,put the cream cheese in the bowl,1,0,85,11,17.27
+libero_goal,1741,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,put the cream cheese in the bowl,1,0,85,11,18.44
+libero_goal,1742,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,4,6,clean,put the cream cheese in the bowl,1,0,84,11,19.25
+libero_goal,1743,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,put the cream cheese in the bowl,1,0,84,11,19.23
+libero_goal,1744,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,put the cream cheese in the bowl,1,0,101,13,24.49
+libero_goal,1745,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,clean,put the cream cheese in the bowl,1,0,98,13,25.03
+libero_goal,1746,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,4,10,clean,put the cream cheese in the bowl,1,0,97,13,28.59
+libero_goal,1747,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,2,11,clean,put the cream cheese in the bowl,1,0,97,13,10.26
+libero_goal,1748,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,put the cream cheese in the bowl,1,0,95,12,10.07
+libero_goal,1749,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,put the cream cheese in the bowl,1,0,91,12,10.01
+libero_goal,1750,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,clean,put the cream cheese in the bowl,1,0,93,12,10.43
+libero_goal,1751,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,4,17,clean,put the cream cheese in the bowl,1,0,98,13,11.47
+libero_goal,1752,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,clean,put the cream cheese in the bowl,1,0,98,13,11.31
+libero_goal,1753,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,put the cream cheese in the bowl,1,0,96,12,11.41
+libero_goal,1754,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,4,20,clean,put the cream cheese in the bowl,1,0,141,18,15.73
+libero_goal,1755,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_21,Sensor Noise,2,21,clean,put the cream cheese in the bowl,1,0,93,12,20.74
+libero_goal,1756,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,2,22,clean,put the cream cheese in the bowl,1,0,94,12,24.74
+libero_goal,1757,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,1,23,clean,put the cream cheese in the bowl,1,0,85,11,18.06
+libero_goal,1758,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,2,24,clean,put the cream cheese in the bowl,1,0,85,11,20.54
+libero_goal,1759,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,clean,put the cream cheese in the bowl,1,0,146,19,29.87
+libero_goal,1760,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,1,26,clean,put the cream cheese in the bowl,1,0,97,13,45.3
+libero_goal,1761,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,clean,put the cream cheese in the bowl,0,0,300,38,138.98
+libero_goal,1762,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,3,28,clean,put the cream cheese in the bowl,1,0,101,13,32.61
+libero_goal,1763,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,clean,put the cream cheese in the bowl,1,0,127,16,44.16
+libero_goal,1764,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,put the cream cheese in the bowl,1,0,145,19,40.55
+libero_goal,1765,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,2,31,clean,put the cream cheese in the bowl,0,0,300,38,29.09
+libero_goal,1766,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,2,32,clean,put the cream cheese in the bowl,1,0,91,12,9.61
+libero_goal,1767,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,2,33,clean,put the cream cheese in the bowl,1,0,98,13,11.03
+libero_goal,1768,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,3,34,clean,put the cream cheese in the bowl,1,0,98,13,10.41
+libero_goal,1769,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,1,35,clean,put the cream cheese in the bowl,1,0,98,13,10.65
+libero_goal,1770,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,clean,put the cream cheese in the bowl,1,0,98,13,10.5
+libero_goal,1771,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,put the cream cheese in the bowl,1,0,97,13,10.72
+libero_goal,1772,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,1,38,clean,put the cream cheese in the bowl,1,0,103,13,10.96
+libero_goal,1773,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,3,39,clean,put the cream cheese in the bowl,1,0,99,13,10.63
+libero_goal,1774,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,clean,put the cream cheese in the bowl,0,0,300,38,29.6
+libero_goal,1775,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,put the cream cheese in the bowl,1,0,93,12,148.3
+libero_goal,1776,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,2,42,clean,put the cream cheese in the bowl,1,0,92,12,144.18
+libero_goal,1777,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,4,43,clean,put the cream cheese in the bowl,1,0,96,12,149.23
+libero_goal,1778,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,clean,put the cream cheese in the bowl,1,0,87,11,93.52
+libero_goal,1779,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,clean,put the cream cheese in the bowl,1,0,94,12,99.27
+libero_goal,1780,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,3,46,clean,put the cream cheese in the bowl,1,0,93,12,99.05
+libero_goal,1781,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,3,47,clean,put the cream cheese in the bowl,1,0,94,12,99.57
+libero_goal,1782,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,put the cream cheese in the bowl,1,0,94,12,99.56
+libero_goal,1783,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,clean,put the cream cheese in the bowl,1,0,96,12,55.26
+libero_goal,1784,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,put the cream cheese in the bowl,1,0,86,11,50.54
+libero_goal,1785,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,1,5,clean,turn on the stove,1,0,75,10,17.47
+libero_goal,1786,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,clean,turn on the stove,1,0,75,10,17.84
+libero_goal,1787,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,1,7,clean,turn on the stove,1,0,78,10,18.05
+libero_goal,1788,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,2,8,clean,turn on the stove,1,0,75,10,18.62
+libero_goal,1789,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,clean,turn on the stove,1,0,76,10,20.43
+libero_goal,1790,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,4,10,clean,turn on the stove,1,0,75,10,21.76
+libero_goal,1791,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,1,13,clean,turn on the stove,1,0,72,9,8.43
+libero_goal,1792,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,clean,turn on the stove,1,0,76,10,9.04
+libero_goal,1793,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,3,15,clean,turn on the stove,1,0,77,10,8.75
+libero_goal,1794,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,3,17,clean,turn on the stove,1,0,77,10,8.75
+libero_goal,1795,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,3,18,clean,turn on the stove,1,0,78,10,9.5
+libero_goal,1796,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,3,19,clean,turn on the stove,1,0,76,10,9.5
+libero_goal,1797,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,3,20,clean,turn on the stove,1,0,76,10,9.55
+libero_goal,1798,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,clean,turn on the stove,1,0,83,11,44.96
+libero_goal,1799,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,1,28,clean,turn on the stove,1,0,83,11,27.91
+libero_goal,1800,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,2,29,clean,turn on the stove,1,0,79,10,30.42
+libero_goal,1801,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,turn on the stove,1,0,80,10,25.76
+libero_goal,1802,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,clean,turn on the stove,1,0,70,9,9.26
+libero_goal,1803,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,2,38,clean,turn on the stove,1,0,74,10,10.32
+libero_goal,1804,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,3,39,clean,turn on the stove,1,0,79,10,10.16
+libero_goal,1805,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,clean,turn on the stove,1,0,73,10,9.7
+libero_goal,1806,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,1,43,clean,turn on the stove,1,0,70,9,119.12
+libero_goal,1807,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,1,44,clean,turn on the stove,1,0,74,10,86.16
+libero_goal,1808,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,clean,turn on the stove,1,0,76,10,87.75
+libero_goal,1809,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,turn on the stove,1,0,77,10,87.97
+libero_goal,1810,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,1,47,clean,turn on the stove,1,0,74,10,83.7
+libero_goal,1811,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,2,48,clean,turn on the stove,1,0,78,10,87.11
+libero_goal,1812,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,2,49,clean,turn on the stove,1,0,80,10,48.71
+libero_goal,1813,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,2,50,clean,turn on the stove,1,0,80,10,49.12
+libero_goal,1814,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,put the bowl on the plate,1,0,77,10,17.03
+libero_goal,1815,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,clean,put the bowl on the plate,1,0,77,10,17.07
+libero_goal,1816,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,clean,put the bowl on the plate,1,0,77,10,18.63
+libero_goal,1817,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,2,7,clean,put the bowl on the plate,1,0,76,10,18.5
+libero_goal,1818,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,clean,put the bowl on the plate,1,0,77,10,20.85
+libero_goal,1819,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,clean,put the bowl on the plate,1,0,81,11,24.89
+libero_goal,1820,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,clean,put the bowl on the plate,1,0,80,10,13.38
+libero_goal,1821,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,clean,put the bowl on the plate,1,0,82,11,12.45
+libero_goal,1822,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,2,15,clean,put the bowl on the plate,1,0,86,11,12.78
+libero_goal,1823,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,2,16,clean,put the bowl on the plate,1,0,82,11,12.8
+libero_goal,1824,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,3,17,clean,put the bowl on the plate,1,0,85,11,12.67
+libero_goal,1825,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,3,18,clean,put the bowl on the plate,1,0,82,11,13.3
+libero_goal,1826,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,3,19,clean,put the bowl on the plate,1,0,83,11,13.99
+libero_goal,1827,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,3,20,clean,put the bowl on the plate,1,0,83,11,14.16
+libero_goal,1828,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,1,26,clean,put the bowl on the plate,1,0,81,11,44.43
+libero_goal,1829,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,clean,put the bowl on the plate,1,0,78,10,44.72
+libero_goal,1830,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,2,28,clean,put the bowl on the plate,1,0,78,10,30.4
+libero_goal,1831,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,3,29,clean,put the bowl on the plate,1,0,83,11,34.55
+libero_goal,1832,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,clean,put the bowl on the plate,1,0,82,11,28.29
+libero_goal,1833,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,clean,put the bowl on the plate,1,0,77,10,11.43
+libero_goal,1834,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,2,38,clean,put the bowl on the plate,1,0,79,10,12.48
+libero_goal,1835,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,clean,put the bowl on the plate,1,0,84,11,13.2
+libero_goal,1836,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,clean,put the bowl on the plate,1,0,76,10,131.94
+libero_goal,1837,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,1,42,clean,put the bowl on the plate,1,0,77,10,130.78
+libero_goal,1838,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,clean,put the bowl on the plate,1,0,79,10,129.94
+libero_goal,1839,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,1,44,clean,put the bowl on the plate,1,0,81,11,94.82
+libero_goal,1840,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,3,45,clean,put the bowl on the plate,1,0,79,10,89.8
+libero_goal,1841,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,clean,put the bowl on the plate,1,0,79,10,89.66
+libero_goal,1842,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,2,47,clean,put the bowl on the plate,1,0,81,11,89.01
+libero_goal,1843,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,2,48,clean,put the bowl on the plate,1,0,81,11,87.81
+libero_goal,1844,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,2,49,clean,put the bowl on the plate,1,0,80,10,48.7
+libero_goal,1845,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,2,50,clean,put the bowl on the plate,1,0,78,10,47.94
+libero_goal,1846,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,1,1,clean,put the wine bottle on the rack,1,0,146,19,26.82
+libero_goal,1847,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,clean,put the wine bottle on the rack,1,0,146,19,28.26
+libero_goal,1848,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,1,3,clean,put the wine bottle on the rack,1,0,140,18,27.57
+libero_goal,1849,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,clean,put the wine bottle on the rack,1,0,139,18,28.74
+libero_goal,1850,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,3,5,clean,put the wine bottle on the rack,1,0,139,18,28.87
+libero_goal,1851,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,4,6,clean,put the wine bottle on the rack,1,0,177,23,39.17
+libero_goal,1852,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,clean,put the wine bottle on the rack,0,0,300,38,68.6
+libero_goal,1853,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,5,8,clean,put the wine bottle on the rack,0,0,300,38,71.17
+libero_goal,1854,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,5,9,clean,put the wine bottle on the rack,0,0,300,38,78.41
+libero_goal,1855,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,clean,put the wine bottle on the rack,0,0,300,38,82.37
+libero_goal,1856,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,2,11,clean,put the wine bottle on the rack,1,0,144,18,15.92
+libero_goal,1857,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,clean,put the wine bottle on the rack,1,0,152,19,17.1
+libero_goal,1858,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,4,13,clean,put the wine bottle on the rack,1,0,153,20,17.68
+libero_goal,1859,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,clean,put the wine bottle on the rack,1,0,162,21,19.19
+libero_goal,1860,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,4,15,clean,put the wine bottle on the rack,1,0,170,22,20.82
+libero_goal,1861,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,clean,put the wine bottle on the rack,1,0,246,31,28.85
+libero_goal,1862,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,clean,put the wine bottle on the rack,0,0,300,38,36.17
+libero_goal,1863,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,clean,put the wine bottle on the rack,0,0,300,38,36.38
+libero_goal,1864,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,clean,put the wine bottle on the rack,0,0,300,38,44.56
+libero_goal,1865,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,2,23,clean,put the wine bottle on the rack,0,0,300,38,74.24
+libero_goal,1866,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,clean,put the wine bottle on the rack,0,0,300,38,79.52
+libero_goal,1867,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,clean,put the wine bottle on the rack,0,0,300,38,73.28
+libero_goal,1868,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,1,26,clean,put the wine bottle on the rack,1,0,246,31,121.64
+libero_goal,1869,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,clean,put the wine bottle on the rack,1,0,289,37,136.26
+libero_goal,1870,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,5,28,clean,put the wine bottle on the rack,0,0,300,38,88.69
+libero_goal,1871,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,clean,put the wine bottle on the rack,1,0,269,34,88.02
+libero_goal,1872,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,clean,put the wine bottle on the rack,1,0,262,33,68.97
+libero_goal,1873,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,1,32,clean,put the wine bottle on the rack,1,0,162,21,15.68
+libero_goal,1874,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,2,33,clean,put the wine bottle on the rack,1,0,152,19,14.72
+libero_goal,1875,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,2,34,clean,put the wine bottle on the rack,1,0,153,20,15.09
+libero_goal,1876,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,1,35,clean,put the wine bottle on the rack,1,0,150,19,14.69
+libero_goal,1877,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,clean,put the wine bottle on the rack,1,0,152,19,14.77
+libero_goal,1878,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,clean,put the wine bottle on the rack,0,0,300,38,28.45
+libero_goal,1879,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,clean,put the wine bottle on the rack,1,0,151,19,227.22
+libero_goal,1880,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,clean,put the wine bottle on the rack,1,0,153,20,227.74
+libero_goal,1881,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,3,44,clean,put the wine bottle on the rack,1,0,152,19,155.5
+libero_goal,1882,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,clean,put the wine bottle on the rack,1,0,170,22,170.96
+libero_goal,1883,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,clean,put the wine bottle on the rack,1,0,143,18,145.99
+libero_goal,1884,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,clean,put the wine bottle on the rack,1,0,288,36,279.44
+libero_goal,1885,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,clean,put the wine bottle on the rack,1,0,280,35,271.62
+libero_goal,1886,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,5,49,clean,put the wine bottle on the rack,0,0,300,38,161.16
+libero_goal,1887,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,clean,put the wine bottle on the rack,1,0,261,33,141.29
+libero_goal,2313,open_the_middle_drawer_of_the_cabinet_light_1,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,190,24,17.92
+libero_goal,2314,open_the_middle_drawer_of_the_cabinet_light_10,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,181,23,17.42
+libero_goal,2315,open_the_middle_drawer_of_the_cabinet_light_11,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,170,22,16.67
+libero_goal,2316,open_the_middle_drawer_of_the_cabinet_light_12,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,170,22,16.37
+libero_goal,2317,open_the_middle_drawer_of_the_cabinet_light_13,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,185,24,18.06
+libero_goal,2318,open_the_middle_drawer_of_the_cabinet_light_14,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,169,22,16.66
+libero_goal,2319,open_the_middle_drawer_of_the_cabinet_light_15,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,171,22,17.08
+libero_goal,2320,open_the_middle_drawer_of_the_cabinet_light_16,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,179,23,17.93
+libero_goal,2321,open_the_middle_drawer_of_the_cabinet_light_17,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,120,15,12.05
+libero_goal,2322,open_the_middle_drawer_of_the_cabinet_light_18,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,131,17,12.97
+libero_goal,2323,open_the_middle_drawer_of_the_cabinet_light_19,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,122,16,12.63
+libero_goal,2324,open_the_middle_drawer_of_the_cabinet_light_2,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,188,24,18.39
+libero_goal,2325,open_the_middle_drawer_of_the_cabinet_light_20,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,141,18,14.14
+libero_goal,2326,open_the_middle_drawer_of_the_cabinet_light_21,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,122,16,12.79
+libero_goal,2327,open_the_middle_drawer_of_the_cabinet_light_24,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,178,23,17.63
+libero_goal,2328,open_the_middle_drawer_of_the_cabinet_light_25,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.44
+libero_goal,2329,open_the_middle_drawer_of_the_cabinet_light_26,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.48
+libero_goal,2330,open_the_middle_drawer_of_the_cabinet_light_27,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,178,23,17.42
+libero_goal,2331,open_the_middle_drawer_of_the_cabinet_light_28,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.38
+libero_goal,2332,open_the_middle_drawer_of_the_cabinet_light_29,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.34
+libero_goal,2333,open_the_middle_drawer_of_the_cabinet_light_3,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,182,23,17.5
+libero_goal,2334,open_the_middle_drawer_of_the_cabinet_light_30,Light Conditions,3,,clean,open the middle drawer of the cabinet,1,0,180,23,17.44
+libero_goal,2335,open_the_middle_drawer_of_the_cabinet_light_31,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.41
+libero_goal,2336,open_the_middle_drawer_of_the_cabinet_light_33,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,180,23,17.27
+libero_goal,2337,open_the_middle_drawer_of_the_cabinet_light_34,Light Conditions,4,,clean,open the middle drawer of the cabinet,1,0,180,23,17.15
+libero_goal,2338,open_the_middle_drawer_of_the_cabinet_light_35,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,180,23,17.17
+libero_goal,2339,open_the_middle_drawer_of_the_cabinet_light_36,Light Conditions,3,,clean,open the middle drawer of the cabinet,1,0,180,23,17.39
+libero_goal,2340,open_the_middle_drawer_of_the_cabinet_light_38,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,178,23,17.24
+libero_goal,2341,open_the_middle_drawer_of_the_cabinet_light_4,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.78
+libero_goal,2342,open_the_middle_drawer_of_the_cabinet_light_41,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,180,23,17.45
+libero_goal,2343,open_the_middle_drawer_of_the_cabinet_light_42,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.35
+libero_goal,2344,open_the_middle_drawer_of_the_cabinet_light_43,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,180,23,17.58
+libero_goal,2345,open_the_middle_drawer_of_the_cabinet_light_45,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,180,23,17.56
+libero_goal,2346,open_the_middle_drawer_of_the_cabinet_light_46,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,180,23,17.39
+libero_goal,2347,open_the_middle_drawer_of_the_cabinet_light_47,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,180,23,17.6
+libero_goal,2348,open_the_middle_drawer_of_the_cabinet_light_48,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,180,23,17.41
+libero_goal,2349,open_the_middle_drawer_of_the_cabinet_light_49,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,181,23,17.3
+libero_goal,2350,open_the_middle_drawer_of_the_cabinet_light_5,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,181,23,17.47
+libero_goal,2351,open_the_middle_drawer_of_the_cabinet_light_50,Light Conditions,3,,clean,open the middle drawer of the cabinet,1,0,180,23,17.59
+libero_goal,2352,open_the_middle_drawer_of_the_cabinet_light_7,Light Conditions,,,clean,open the middle drawer of the cabinet,1,0,180,23,17.59
+libero_goal,2353,open_the_middle_drawer_of_the_cabinet_light_8,Light Conditions,2,,clean,open the middle drawer of the cabinet,1,0,169,22,16.16
+libero_goal,2354,open_the_middle_drawer_of_the_cabinet_light_9,Light Conditions,1,,clean,open the middle drawer of the cabinet,1,0,188,24,18.23
+libero_goal,2355,open_the_top_drawer_and_put_the_bowl_inside_light_1,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.53
+libero_goal,2356,open_the_top_drawer_and_put_the_bowl_inside_light_10,Light Conditions,,,clean,open the top drawer and put the bowl inside,0,0,300,38,28.15
+libero_goal,2357,open_the_top_drawer_and_put_the_bowl_inside_light_11,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.66
+libero_goal,2358,open_the_top_drawer_and_put_the_bowl_inside_light_12,Light Conditions,,,clean,open the top drawer and put the bowl inside,0,0,300,38,27.99
+libero_goal,2359,open_the_top_drawer_and_put_the_bowl_inside_light_13,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,225,29,21.8
+libero_goal,2360,open_the_top_drawer_and_put_the_bowl_inside_light_14,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,229,29,21.85
+libero_goal,2361,open_the_top_drawer_and_put_the_bowl_inside_light_15,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.67
+libero_goal,2362,open_the_top_drawer_and_put_the_bowl_inside_light_16,Light Conditions,2,,clean,open the top drawer and put the bowl inside,0,0,300,38,28.63
+libero_goal,2363,open_the_top_drawer_and_put_the_bowl_inside_light_17,Light Conditions,1,,clean,open the top drawer and put the bowl inside,1,0,205,26,19.35
+libero_goal,2364,open_the_top_drawer_and_put_the_bowl_inside_light_18,Light Conditions,3,,clean,open the top drawer and put the bowl inside,1,0,225,29,21.32
+libero_goal,2365,open_the_top_drawer_and_put_the_bowl_inside_light_19,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.72
+libero_goal,2366,open_the_top_drawer_and_put_the_bowl_inside_light_2,Light Conditions,2,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.53
+libero_goal,2367,open_the_top_drawer_and_put_the_bowl_inside_light_20,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,230,29,21.47
+libero_goal,2368,open_the_top_drawer_and_put_the_bowl_inside_light_21,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,208,26,19.65
+libero_goal,2369,open_the_top_drawer_and_put_the_bowl_inside_light_22,Light Conditions,2,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.69
+libero_goal,2370,open_the_top_drawer_and_put_the_bowl_inside_light_23,Light Conditions,3,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.46
+libero_goal,2371,open_the_top_drawer_and_put_the_bowl_inside_light_24,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.76
+libero_goal,2372,open_the_top_drawer_and_put_the_bowl_inside_light_25,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.33
+libero_goal,2373,open_the_top_drawer_and_put_the_bowl_inside_light_26,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,209,27,20.56
+libero_goal,2374,open_the_top_drawer_and_put_the_bowl_inside_light_27,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.65
+libero_goal,2375,open_the_top_drawer_and_put_the_bowl_inside_light_28,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.97
+libero_goal,2376,open_the_top_drawer_and_put_the_bowl_inside_light_29,Light Conditions,3,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.46
+libero_goal,2377,open_the_top_drawer_and_put_the_bowl_inside_light_3,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,20.12
+libero_goal,2378,open_the_top_drawer_and_put_the_bowl_inside_light_30,Light Conditions,5,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.43
+libero_goal,2379,open_the_top_drawer_and_put_the_bowl_inside_light_31,Light Conditions,5,,clean,open the top drawer and put the bowl inside,1,0,206,26,19.62
+libero_goal,2380,open_the_top_drawer_and_put_the_bowl_inside_light_32,Light Conditions,5,,clean,open the top drawer and put the bowl inside,0,0,300,38,28.51
+libero_goal,2381,open_the_top_drawer_and_put_the_bowl_inside_light_33,Light Conditions,4,,clean,open the top drawer and put the bowl inside,0,0,300,38,28.81
+libero_goal,2382,open_the_top_drawer_and_put_the_bowl_inside_light_34,Light Conditions,5,,clean,open the top drawer and put the bowl inside,1,0,212,27,21.52
+libero_goal,2383,open_the_top_drawer_and_put_the_bowl_inside_light_35,Light Conditions,5,,clean,open the top drawer and put the bowl inside,1,0,199,25,19.63
+libero_goal,2384,open_the_top_drawer_and_put_the_bowl_inside_light_36,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,207,26,21.1
+libero_goal,2385,open_the_top_drawer_and_put_the_bowl_inside_light_37,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,201,26,20.61
+libero_goal,2386,open_the_top_drawer_and_put_the_bowl_inside_light_38,Light Conditions,5,,clean,open the top drawer and put the bowl inside,1,0,206,26,20.49
+libero_goal,2387,open_the_top_drawer_and_put_the_bowl_inside_light_39,Light Conditions,1,,clean,open the top drawer and put the bowl inside,1,0,204,26,20.84
+libero_goal,2388,open_the_top_drawer_and_put_the_bowl_inside_light_4,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,20.63
+libero_goal,2389,open_the_top_drawer_and_put_the_bowl_inside_light_40,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,198,25,19.82
+libero_goal,2390,open_the_top_drawer_and_put_the_bowl_inside_light_41,Light Conditions,5,,clean,open the top drawer and put the bowl inside,0,0,300,38,30.04
+libero_goal,2391,open_the_top_drawer_and_put_the_bowl_inside_light_42,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,217,28,21.91
+libero_goal,2392,open_the_top_drawer_and_put_the_bowl_inside_light_43,Light Conditions,3,,clean,open the top drawer and put the bowl inside,1,0,254,32,24.88
+libero_goal,2393,open_the_top_drawer_and_put_the_bowl_inside_light_44,Light Conditions,3,,clean,open the top drawer and put the bowl inside,1,0,208,26,20.56
+libero_goal,2394,open_the_top_drawer_and_put_the_bowl_inside_light_45,Light Conditions,5,,clean,open the top drawer and put the bowl inside,1,0,206,26,20.53
+libero_goal,2395,open_the_top_drawer_and_put_the_bowl_inside_light_46,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,211,27,21.35
+libero_goal,2396,open_the_top_drawer_and_put_the_bowl_inside_light_47,Light Conditions,3,,clean,open the top drawer and put the bowl inside,1,0,208,26,20.77
+libero_goal,2397,open_the_top_drawer_and_put_the_bowl_inside_light_48,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,232,29,22.54
+libero_goal,2398,open_the_top_drawer_and_put_the_bowl_inside_light_49,Light Conditions,3,,clean,open the top drawer and put the bowl inside,1,0,206,26,20.55
+libero_goal,2399,open_the_top_drawer_and_put_the_bowl_inside_light_5,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,20.65
+libero_goal,2400,open_the_top_drawer_and_put_the_bowl_inside_light_50,Light Conditions,4,,clean,open the top drawer and put the bowl inside,1,0,203,26,20.39
+libero_goal,2401,open_the_top_drawer_and_put_the_bowl_inside_light_6,Light Conditions,,,clean,open the top drawer and put the bowl inside,0,0,300,38,29.34
+libero_goal,2402,open_the_top_drawer_and_put_the_bowl_inside_light_7,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,20.97
+libero_goal,2403,open_the_top_drawer_and_put_the_bowl_inside_light_8,Light Conditions,,,clean,open the top drawer and put the bowl inside,0,0,300,38,38.82
+libero_goal,2404,open_the_top_drawer_and_put_the_bowl_inside_light_9,Light Conditions,,,clean,open the top drawer and put the bowl inside,1,0,206,26,28.01
+libero_goal,2405,push_the_plate_to_the_front_of_the_stove_light_1,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,123,16,17.86
+libero_goal,2406,push_the_plate_to_the_front_of_the_stove_light_10,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,118,15,18.25
+libero_goal,2407,push_the_plate_to_the_front_of_the_stove_light_11,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,112,14,15.65
+libero_goal,2408,push_the_plate_to_the_front_of_the_stove_light_13,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,114,15,18.55
+libero_goal,2409,push_the_plate_to_the_front_of_the_stove_light_15,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,111,14,16.09
+libero_goal,2410,push_the_plate_to_the_front_of_the_stove_light_17,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,112,14,17.44
+libero_goal,2411,push_the_plate_to_the_front_of_the_stove_light_19,Light Conditions,,,clean,push the plate to the front of the stove,1,0,113,15,17.01
+libero_goal,2412,push_the_plate_to_the_front_of_the_stove_light_2,Light Conditions,,,clean,push the plate to the front of the stove,1,0,113,15,17.85
+libero_goal,2413,push_the_plate_to_the_front_of_the_stove_light_21,Light Conditions,,,clean,push the plate to the front of the stove,1,0,117,15,17.85
+libero_goal,2414,push_the_plate_to_the_front_of_the_stove_light_22,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,117,15,17.24
+libero_goal,2415,push_the_plate_to_the_front_of_the_stove_light_23,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,117,15,17.58
+libero_goal,2416,push_the_plate_to_the_front_of_the_stove_light_24,Light Conditions,,,clean,push the plate to the front of the stove,1,0,117,15,16.21
+libero_goal,2417,push_the_plate_to_the_front_of_the_stove_light_26,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,117,15,17.76
+libero_goal,2418,push_the_plate_to_the_front_of_the_stove_light_27,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,117,15,16.8
+libero_goal,2419,push_the_plate_to_the_front_of_the_stove_light_28,Light Conditions,,,clean,push the plate to the front of the stove,1,0,117,15,17.71
+libero_goal,2420,push_the_plate_to_the_front_of_the_stove_light_29,Light Conditions,3,,clean,push the plate to the front of the stove,1,0,117,15,16.49
+libero_goal,2421,push_the_plate_to_the_front_of_the_stove_light_30,Light Conditions,3,,clean,push the plate to the front of the stove,1,0,117,15,18.16
+libero_goal,2422,push_the_plate_to_the_front_of_the_stove_light_31,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,117,15,16.45
+libero_goal,2423,push_the_plate_to_the_front_of_the_stove_light_32,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,115,15,18.23
+libero_goal,2424,push_the_plate_to_the_front_of_the_stove_light_33,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,118,15,17.62
+libero_goal,2425,push_the_plate_to_the_front_of_the_stove_light_34,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,117,15,17.11
+libero_goal,2426,push_the_plate_to_the_front_of_the_stove_light_35,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,117,15,17.78
+libero_goal,2427,push_the_plate_to_the_front_of_the_stove_light_36,Light Conditions,3,,clean,push the plate to the front of the stove,1,0,117,15,16.73
+libero_goal,2428,push_the_plate_to_the_front_of_the_stove_light_37,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,117,15,17.83
+libero_goal,2429,push_the_plate_to_the_front_of_the_stove_light_38,Light Conditions,4,,clean,push the plate to the front of the stove,1,0,117,15,17.98
+libero_goal,2430,push_the_plate_to_the_front_of_the_stove_light_39,Light Conditions,3,,clean,push the plate to the front of the stove,1,0,118,15,18.12
+libero_goal,2431,push_the_plate_to_the_front_of_the_stove_light_4,Light Conditions,,,clean,push the plate to the front of the stove,1,0,113,15,16.19
+libero_goal,2432,push_the_plate_to_the_front_of_the_stove_light_40,Light Conditions,4,,clean,push the plate to the front of the stove,0,0,300,38,44.12
+libero_goal,2433,push_the_plate_to_the_front_of_the_stove_light_41,Light Conditions,1,,clean,push the plate to the front of the stove,1,0,118,15,18.26
+libero_goal,2434,push_the_plate_to_the_front_of_the_stove_light_42,Light Conditions,2,,clean,push the plate to the front of the stove,0,0,300,38,41.18
+libero_goal,2435,push_the_plate_to_the_front_of_the_stove_light_43,Light Conditions,1,,clean,push the plate to the front of the stove,0,0,300,38,43.7
+libero_goal,2436,push_the_plate_to_the_front_of_the_stove_light_44,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,118,15,17.29
+libero_goal,2437,push_the_plate_to_the_front_of_the_stove_light_46,Light Conditions,3,,clean,push the plate to the front of the stove,1,0,118,15,17.57
+libero_goal,2438,push_the_plate_to_the_front_of_the_stove_light_48,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,116,15,16.52
+libero_goal,2439,push_the_plate_to_the_front_of_the_stove_light_50,Light Conditions,2,,clean,push the plate to the front of the stove,1,0,119,15,17.78
+libero_goal,2440,push_the_plate_to_the_front_of_the_stove_light_6,Light Conditions,,,clean,push the plate to the front of the stove,1,0,115,15,16.94
+libero_goal,2441,put_the_bowl_on_the_plate_light_1,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,12.49
+libero_goal,2442,put_the_bowl_on_the_plate_light_11,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,11.47
+libero_goal,2443,put_the_bowl_on_the_plate_light_13,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,12.51
+libero_goal,2444,put_the_bowl_on_the_plate_light_15,Light Conditions,2,,clean,put the bowl on the plate,1,0,74,10,11.54
+libero_goal,2445,put_the_bowl_on_the_plate_light_16,Light Conditions,,,clean,put the bowl on the plate,1,0,73,10,11.1
+libero_goal,2446,put_the_bowl_on_the_plate_light_18,Light Conditions,,,clean,put the bowl on the plate,1,0,74,10,12.17
+libero_goal,2447,put_the_bowl_on_the_plate_light_2,Light Conditions,2,,clean,put the bowl on the plate,1,0,73,10,11.57
+libero_goal,2448,put_the_bowl_on_the_plate_light_20,Light Conditions,,,clean,put the bowl on the plate,1,0,74,10,13.33
+libero_goal,2449,put_the_bowl_on_the_plate_light_24,Light Conditions,,,clean,put the bowl on the plate,1,0,73,10,11.61
+libero_goal,2450,put_the_bowl_on_the_plate_light_26,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,11.99
+libero_goal,2451,put_the_bowl_on_the_plate_light_27,Light Conditions,,,clean,put the bowl on the plate,1,0,74,10,12.07
+libero_goal,2452,put_the_bowl_on_the_plate_light_29,Light Conditions,1,,clean,put the bowl on the plate,1,0,75,10,11.76
+libero_goal,2453,put_the_bowl_on_the_plate_light_34,Light Conditions,1,,clean,put the bowl on the plate,1,0,75,10,10.61
+libero_goal,2454,put_the_bowl_on_the_plate_light_35,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,12.54
+libero_goal,2455,put_the_bowl_on_the_plate_light_36,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,12.62
+libero_goal,2456,put_the_bowl_on_the_plate_light_37,Light Conditions,,,clean,put the bowl on the plate,1,0,77,10,12.36
+libero_goal,2457,put_the_bowl_on_the_plate_light_38,Light Conditions,2,,clean,put the bowl on the plate,1,0,75,10,11.76
+libero_goal,2458,put_the_bowl_on_the_plate_light_39,Light Conditions,3,,clean,put the bowl on the plate,1,0,75,10,11.03
+libero_goal,2459,put_the_bowl_on_the_plate_light_4,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,12.75
+libero_goal,2460,put_the_bowl_on_the_plate_light_40,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,11.7
+libero_goal,2461,put_the_bowl_on_the_plate_light_42,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,10.65
+libero_goal,2462,put_the_bowl_on_the_plate_light_44,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,13.5
+libero_goal,2463,put_the_bowl_on_the_plate_light_49,Light Conditions,2,,clean,put the bowl on the plate,1,0,75,10,10.63
+libero_goal,2464,put_the_bowl_on_the_plate_light_5,Light Conditions,,,clean,put the bowl on the plate,1,0,74,10,13.26
+libero_goal,2465,put_the_bowl_on_the_plate_light_7,Light Conditions,,,clean,put the bowl on the plate,1,0,73,10,12.11
+libero_goal,2466,put_the_bowl_on_the_plate_light_9,Light Conditions,,,clean,put the bowl on the plate,1,0,75,10,10.61
+libero_goal,2467,put_the_bowl_on_the_stove_light_11,Light Conditions,4,,clean,put the bowl on the stove,1,0,85,11,14.61
+libero_goal,2468,put_the_bowl_on_the_stove_light_15,Light Conditions,5,,clean,put the bowl on the stove,1,0,83,11,12.99
+libero_goal,2469,put_the_bowl_on_the_stove_light_24,Light Conditions,4,,clean,put the bowl on the stove,1,0,83,11,12.9
+libero_goal,2470,put_the_bowl_on_the_stove_light_37,Light Conditions,4,,clean,put the bowl on the stove,1,0,84,11,13.67
+libero_goal,2471,put_the_bowl_on_top_of_the_cabinet_light_10,Light Conditions,,,clean,put the bowl on top of the cabinet,1,0,85,11,12.82
+libero_goal,2472,put_the_bowl_on_top_of_the_cabinet_light_15,Light Conditions,,,clean,put the bowl on top of the cabinet,1,0,85,11,13.68
+libero_goal,2473,put_the_bowl_on_top_of_the_cabinet_light_2,Light Conditions,1,,clean,put the bowl on top of the cabinet,1,0,84,11,12.63
+libero_goal,2474,put_the_bowl_on_top_of_the_cabinet_light_21,Light Conditions,1,,clean,put the bowl on top of the cabinet,1,0,85,11,13.91
+libero_goal,2475,put_the_bowl_on_top_of_the_cabinet_light_24,Light Conditions,3,,clean,put the bowl on top of the cabinet,1,0,85,11,13.68
+libero_goal,2476,put_the_bowl_on_top_of_the_cabinet_light_38,Light Conditions,,,clean,put the bowl on top of the cabinet,1,0,85,11,13.02
+libero_goal,2477,put_the_bowl_on_top_of_the_cabinet_light_39,Light Conditions,2,,clean,put the bowl on top of the cabinet,1,0,82,11,13.74
+libero_goal,2478,put_the_bowl_on_top_of_the_cabinet_light_40,Light Conditions,,,clean,put the bowl on top of the cabinet,1,0,86,11,12.64
+libero_goal,2479,put_the_bowl_on_top_of_the_cabinet_light_44,Light Conditions,3,,clean,put the bowl on top of the cabinet,1,0,87,11,13.2
+libero_goal,2480,put_the_bowl_on_top_of_the_cabinet_light_45,Light Conditions,,,clean,put the bowl on top of the cabinet,1,0,85,11,12.6
+libero_goal,2481,put_the_bowl_on_top_of_the_cabinet_light_50,Light Conditions,,,clean,put the bowl on top of the cabinet,1,0,85,11,13.41
+libero_goal,2482,put_the_bowl_on_top_of_the_cabinet_light_6,Light Conditions,1,,clean,put the bowl on top of the cabinet,1,0,84,11,13.51
+libero_goal,2483,put_the_bowl_on_top_of_the_cabinet_light_8,Light Conditions,1,,clean,put the bowl on top of the cabinet,1,0,82,11,12.52
+libero_goal,2484,put_the_cream_cheese_in_the_bowl_light_1,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,14.7
+libero_goal,2485,put_the_cream_cheese_in_the_bowl_light_10,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,13.35
+libero_goal,2486,put_the_cream_cheese_in_the_bowl_light_14,Light Conditions,2,,clean,put the cream cheese in the bowl,1,0,157,20,24.96
+libero_goal,2487,put_the_cream_cheese_in_the_bowl_light_15,Light Conditions,1,,clean,put the cream cheese in the bowl,0,0,300,38,39.42
+libero_goal,2488,put_the_cream_cheese_in_the_bowl_light_18,Light Conditions,1,,clean,put the cream cheese in the bowl,1,0,157,20,23.02
+libero_goal,2489,put_the_cream_cheese_in_the_bowl_light_21,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,13.85
+libero_goal,2490,put_the_cream_cheese_in_the_bowl_light_22,Light Conditions,1,,clean,put the cream cheese in the bowl,1,0,198,25,28.24
+libero_goal,2491,put_the_cream_cheese_in_the_bowl_light_25,Light Conditions,,,clean,put the cream cheese in the bowl,0,0,300,38,41.3
+libero_goal,2492,put_the_cream_cheese_in_the_bowl_light_26,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,132,17,20.33
+libero_goal,2493,put_the_cream_cheese_in_the_bowl_light_27,Light Conditions,1,,clean,put the cream cheese in the bowl,1,0,169,22,23.55
+libero_goal,2494,put_the_cream_cheese_in_the_bowl_light_30,Light Conditions,1,,clean,put the cream cheese in the bowl,1,0,95,12,13.68
+libero_goal,2495,put_the_cream_cheese_in_the_bowl_light_32,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,13.97
+libero_goal,2496,put_the_cream_cheese_in_the_bowl_light_37,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,15.6
+libero_goal,2497,put_the_cream_cheese_in_the_bowl_light_38,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,13.32
+libero_goal,2498,put_the_cream_cheese_in_the_bowl_light_39,Light Conditions,1,,clean,put the cream cheese in the bowl,0,0,300,38,40.95
+libero_goal,2499,put_the_cream_cheese_in_the_bowl_light_41,Light Conditions,1,,clean,put the cream cheese in the bowl,0,0,300,38,40.89
+libero_goal,2500,put_the_cream_cheese_in_the_bowl_light_42,Light Conditions,1,,clean,put the cream cheese in the bowl,1,0,169,22,23.35
+libero_goal,2501,put_the_cream_cheese_in_the_bowl_light_44,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,14.01
+libero_goal,2502,put_the_cream_cheese_in_the_bowl_light_46,Light Conditions,,,clean,put the cream cheese in the bowl,0,0,300,38,40.02
+libero_goal,2503,put_the_cream_cheese_in_the_bowl_light_48,Light Conditions,1,,clean,put the cream cheese in the bowl,0,0,300,38,43.64
+libero_goal,2504,put_the_cream_cheese_in_the_bowl_light_5,Light Conditions,4,,clean,put the cream cheese in the bowl,1,0,95,12,15.04
+libero_goal,2505,put_the_cream_cheese_in_the_bowl_light_50,Light Conditions,1,,clean,put the cream cheese in the bowl,1,0,95,12,13.32
+libero_goal,2506,put_the_cream_cheese_in_the_bowl_light_6,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,14.47
+libero_goal,2507,put_the_cream_cheese_in_the_bowl_light_7,Light Conditions,1,,clean,put the cream cheese in the bowl,1,0,95,12,13.22
+libero_goal,2508,put_the_cream_cheese_in_the_bowl_light_8,Light Conditions,,,clean,put the cream cheese in the bowl,1,0,95,12,16.28
+libero_goal,2509,put_the_wine_bottle_on_the_rack_light_10,Light Conditions,,,clean,put the wine bottle on the rack,1,0,122,16,18.19
+libero_goal,2510,put_the_wine_bottle_on_the_rack_light_11,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,152,19,21.54
+libero_goal,2511,put_the_wine_bottle_on_the_rack_light_12,Light Conditions,,,clean,put the wine bottle on the rack,1,0,139,18,19.07
+libero_goal,2512,put_the_wine_bottle_on_the_rack_light_13,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,146,19,20.27
+libero_goal,2513,put_the_wine_bottle_on_the_rack_light_15,Light Conditions,,,clean,put the wine bottle on the rack,1,0,150,19,21.17
+libero_goal,2514,put_the_wine_bottle_on_the_rack_light_16,Light Conditions,,,clean,put the wine bottle on the rack,1,0,141,18,19.51
+libero_goal,2515,put_the_wine_bottle_on_the_rack_light_17,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,151,19,21.44
+libero_goal,2516,put_the_wine_bottle_on_the_rack_light_18,Light Conditions,,,clean,put the wine bottle on the rack,1,0,139,18,20.66
+libero_goal,2517,put_the_wine_bottle_on_the_rack_light_19,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,153,20,20.83
+libero_goal,2518,put_the_wine_bottle_on_the_rack_light_2,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,122,16,18.41
+libero_goal,2519,put_the_wine_bottle_on_the_rack_light_20,Light Conditions,,,clean,put the wine bottle on the rack,1,0,145,19,23.41
+libero_goal,2520,put_the_wine_bottle_on_the_rack_light_21,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,122,16,18.21
+libero_goal,2521,put_the_wine_bottle_on_the_rack_light_22,Light Conditions,1,,clean,put the wine bottle on the rack,1,0,151,19,20.58
+libero_goal,2522,put_the_wine_bottle_on_the_rack_light_24,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,150,19,21.09
+libero_goal,2523,put_the_wine_bottle_on_the_rack_light_25,Light Conditions,,,clean,put the wine bottle on the rack,1,0,140,18,21.5
+libero_goal,2524,put_the_wine_bottle_on_the_rack_light_26,Light Conditions,,,clean,put the wine bottle on the rack,1,0,149,19,19.96
+libero_goal,2525,put_the_wine_bottle_on_the_rack_light_27,Light Conditions,3,,clean,put the wine bottle on the rack,1,0,144,18,20.57
+libero_goal,2526,put_the_wine_bottle_on_the_rack_light_28,Light Conditions,3,,clean,put the wine bottle on the rack,1,0,148,19,21.65
+libero_goal,2527,put_the_wine_bottle_on_the_rack_light_29,Light Conditions,,,clean,put the wine bottle on the rack,1,0,141,18,19.28
+libero_goal,2528,put_the_wine_bottle_on_the_rack_light_31,Light Conditions,,,clean,put the wine bottle on the rack,1,0,136,17,18.26
+libero_goal,2529,put_the_wine_bottle_on_the_rack_light_33,Light Conditions,,,clean,put the wine bottle on the rack,1,0,143,18,20.99
+libero_goal,2530,put_the_wine_bottle_on_the_rack_light_35,Light Conditions,,,clean,put the wine bottle on the rack,1,0,148,19,20.17
+libero_goal,2531,put_the_wine_bottle_on_the_rack_light_36,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,144,18,20.21
+libero_goal,2532,put_the_wine_bottle_on_the_rack_light_39,Light Conditions,,,clean,put the wine bottle on the rack,1,0,122,16,17.13
+libero_goal,2533,put_the_wine_bottle_on_the_rack_light_41,Light Conditions,,,clean,put the wine bottle on the rack,1,0,122,16,17.69
+libero_goal,2534,put_the_wine_bottle_on_the_rack_light_43,Light Conditions,3,,clean,put the wine bottle on the rack,1,0,122,16,19.47
+libero_goal,2535,put_the_wine_bottle_on_the_rack_light_44,Light Conditions,,,clean,put the wine bottle on the rack,1,0,122,16,17.82
+libero_goal,2536,put_the_wine_bottle_on_the_rack_light_46,Light Conditions,,,clean,put the wine bottle on the rack,1,0,122,16,16.8
+libero_goal,2537,put_the_wine_bottle_on_the_rack_light_49,Light Conditions,1,,clean,put the wine bottle on the rack,1,0,129,17,18.08
+libero_goal,2538,put_the_wine_bottle_on_the_rack_light_5,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,132,17,19.17
+libero_goal,2539,put_the_wine_bottle_on_the_rack_light_50,Light Conditions,,,clean,put the wine bottle on the rack,1,0,122,16,17.17
+libero_goal,2540,put_the_wine_bottle_on_the_rack_light_6,Light Conditions,2,,clean,put the wine bottle on the rack,1,0,122,16,17.99
+libero_goal,2541,put_the_wine_bottle_on_the_rack_light_7,Light Conditions,1,,clean,put the wine bottle on the rack,1,0,122,16,17.49
+libero_goal,2542,put_the_wine_bottle_on_the_rack_light_8,Light Conditions,,,clean,put the wine bottle on the rack,1,0,122,16,17.97
+libero_goal,2543,put_the_wine_bottle_on_top_of_the_cabinet_light_10,Light Conditions,3,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.6
+libero_goal,2544,put_the_wine_bottle_on_top_of_the_cabinet_light_11,Light Conditions,3,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.94
+libero_goal,2545,put_the_wine_bottle_on_top_of_the_cabinet_light_13,Light Conditions,4,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.16
+libero_goal,2546,put_the_wine_bottle_on_top_of_the_cabinet_light_14,Light Conditions,5,,clean,put the wine bottle on top of the cabinet,1,0,77,10,11.69
+libero_goal,2547,put_the_wine_bottle_on_top_of_the_cabinet_light_15,Light Conditions,4,,clean,put the wine bottle on top of the cabinet,1,0,78,10,13.2
+libero_goal,2548,put_the_wine_bottle_on_top_of_the_cabinet_light_18,Light Conditions,5,,clean,put the wine bottle on top of the cabinet,1,0,78,10,10.55
+libero_goal,2549,put_the_wine_bottle_on_top_of_the_cabinet_light_19,Light Conditions,5,,clean,put the wine bottle on top of the cabinet,1,0,78,10,13.35
+libero_goal,2550,put_the_wine_bottle_on_top_of_the_cabinet_light_2,Light Conditions,2,,clean,put the wine bottle on top of the cabinet,1,0,78,10,10.49
+libero_goal,2551,put_the_wine_bottle_on_top_of_the_cabinet_light_21,Light Conditions,2,,clean,put the wine bottle on top of the cabinet,1,0,78,10,13.24
+libero_goal,2552,put_the_wine_bottle_on_top_of_the_cabinet_light_22,Light Conditions,2,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.68
+libero_goal,2553,put_the_wine_bottle_on_top_of_the_cabinet_light_23,Light Conditions,1,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.14
+libero_goal,2554,put_the_wine_bottle_on_top_of_the_cabinet_light_3,Light Conditions,5,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.13
+libero_goal,2555,put_the_wine_bottle_on_top_of_the_cabinet_light_30,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.38
+libero_goal,2556,put_the_wine_bottle_on_top_of_the_cabinet_light_32,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.22
+libero_goal,2557,put_the_wine_bottle_on_top_of_the_cabinet_light_33,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,10.89
+libero_goal,2558,put_the_wine_bottle_on_top_of_the_cabinet_light_34,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.41
+libero_goal,2559,put_the_wine_bottle_on_top_of_the_cabinet_light_35,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,13.72
+libero_goal,2560,put_the_wine_bottle_on_top_of_the_cabinet_light_36,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.25
+libero_goal,2561,put_the_wine_bottle_on_top_of_the_cabinet_light_37,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.12
+libero_goal,2562,put_the_wine_bottle_on_top_of_the_cabinet_light_39,Light Conditions,1,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.31
+libero_goal,2563,put_the_wine_bottle_on_top_of_the_cabinet_light_4,Light Conditions,4,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.24
+libero_goal,2564,put_the_wine_bottle_on_top_of_the_cabinet_light_40,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,13.49
+libero_goal,2565,put_the_wine_bottle_on_top_of_the_cabinet_light_44,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.68
+libero_goal,2566,put_the_wine_bottle_on_top_of_the_cabinet_light_45,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.23
+libero_goal,2567,put_the_wine_bottle_on_top_of_the_cabinet_light_48,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,13.21
+libero_goal,2568,put_the_wine_bottle_on_top_of_the_cabinet_light_49,Light Conditions,,,clean,put the wine bottle on top of the cabinet,1,0,78,10,11.08
+libero_goal,2569,put_the_wine_bottle_on_top_of_the_cabinet_light_5,Light Conditions,5,,clean,put the wine bottle on top of the cabinet,1,0,77,10,12.26
+libero_goal,2570,put_the_wine_bottle_on_top_of_the_cabinet_light_8,Light Conditions,4,,clean,put the wine bottle on top of the cabinet,1,0,78,10,12.53
+libero_goal,2571,turn_on_the_stove_light_1,Light Conditions,3,,clean,turn on the stove,1,0,70,9,11.44
+libero_goal,2572,turn_on_the_stove_light_11,Light Conditions,2,,clean,turn on the stove,1,0,71,9,10.35
+libero_goal,2573,turn_on_the_stove_light_12,Light Conditions,2,,clean,turn on the stove,1,0,71,9,10.69
+libero_goal,2574,turn_on_the_stove_light_13,Light Conditions,1,,clean,turn on the stove,1,0,71,9,12.08
+libero_goal,2575,turn_on_the_stove_light_14,Light Conditions,3,,clean,turn on the stove,1,0,71,9,11.74
+libero_goal,2576,turn_on_the_stove_light_19,Light Conditions,1,,clean,turn on the stove,1,0,71,9,10.44
+libero_goal,2577,turn_on_the_stove_light_2,Light Conditions,3,,clean,turn on the stove,1,0,70,9,10.94
+libero_goal,2578,turn_on_the_stove_light_20,Light Conditions,2,,clean,turn on the stove,1,0,71,9,10.03
+libero_goal,2579,turn_on_the_stove_light_22,Light Conditions,2,,clean,turn on the stove,1,0,71,9,10.59
+libero_goal,2580,turn_on_the_stove_light_23,Light Conditions,,,clean,turn on the stove,1,0,71,9,11.34
+libero_goal,2581,turn_on_the_stove_light_24,Light Conditions,3,,clean,turn on the stove,1,0,71,9,9.37
+libero_goal,2582,turn_on_the_stove_light_25,Light Conditions,,,clean,turn on the stove,1,0,67,9,10.91
+libero_goal,2583,turn_on_the_stove_light_28,Light Conditions,2,,clean,turn on the stove,1,0,70,9,10.46
+libero_goal,2584,turn_on_the_stove_light_30,Light Conditions,,,clean,turn on the stove,1,0,70,9,9.14
+libero_goal,2585,turn_on_the_stove_light_31,Light Conditions,,,clean,turn on the stove,1,0,68,9,10.65
+libero_goal,2586,turn_on_the_stove_light_32,Light Conditions,,,clean,turn on the stove,1,0,71,9,10.52
+libero_goal,2587,turn_on_the_stove_light_38,Light Conditions,4,,clean,turn on the stove,1,0,71,9,11.13
+libero_goal,2588,turn_on_the_stove_light_39,Light Conditions,,,clean,turn on the stove,1,0,70,9,11.58
+libero_goal,2589,turn_on_the_stove_light_41,Light Conditions,,,clean,turn on the stove,1,0,68,9,11.11
+libero_goal,2590,turn_on_the_stove_light_5,Light Conditions,2,,clean,turn on the stove,1,0,70,9,9.8
+libero_goal,2591,turn_on_the_stove_light_8,Light Conditions,3,,clean,turn on the stove,1,0,71,9,12.39

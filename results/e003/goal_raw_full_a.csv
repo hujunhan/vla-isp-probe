@@ -1,0 +1,191 @@
+suite,task_id,name,category,level,noise_code,lang_mode,language,success,error,policy_steps,n_queries,wall_s
+libero_goal,1509,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 1,1,0,123,16,19.85
+libero_goal,1511,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 3,1,0,121,16,21.56
+libero_goal,1513,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 5,1,0,119,15,25.34
+libero_goal,1515,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 7,1,0,115,15,25.32
+libero_goal,1517,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,5,9,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 9,1,0,131,17,37.35
+libero_goal,1519,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 12,1,0,129,17,15.22
+libero_goal,1521,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,3,14,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 14,1,0,115,15,13.84
+libero_goal,1523,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,4,16,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 16,1,0,117,15,16.94
+libero_goal,1525,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,5,18,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 18,1,0,118,15,17.24
+libero_goal,1527,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 20,1,0,119,15,18.89
+libero_goal,1529,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,1,23,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 23,1,0,224,28,49.34
+libero_goal,1531,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 25,1,0,130,17,30.04
+libero_goal,1533,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,2,27,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 27,1,0,114,15,58.12
+libero_goal,1535,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,1,35,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 35,1,0,133,17,14.37
+libero_goal,1537,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 37,1,0,121,16,13.96
+libero_goal,1539,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 39,1,0,120,15,13.4
+libero_goal,1541,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 41,1,0,130,17,199.37
+libero_goal,1543,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 43,1,0,112,14,166.07
+libero_goal,1545,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,3,45,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 45,1,0,115,15,117.89
+libero_goal,1547,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 47,1,0,116,15,115.1
+libero_goal,1549,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 49,1,0,117,15,64.08
+libero_goal,1551,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,1,4,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 4,1,0,73,10,16.66
+libero_goal,1553,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,2,6,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 6,1,0,78,10,17.65
+libero_goal,1555,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 8,1,0,84,11,22.97
+libero_goal,1557,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 13,1,0,78,10,10.1
+libero_goal,1559,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,3,15,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 15,1,0,81,11,10.68
+libero_goal,1561,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,4,17,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 17,1,0,83,11,11.15
+libero_goal,1563,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,4,19,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 19,1,0,84,11,10.71
+libero_goal,1565,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 25,1,0,76,10,17.72
+libero_goal,1567,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 27,0,0,300,38,147.78
+libero_goal,1569,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 29,1,0,83,11,32.03
+libero_goal,1571,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 37,1,0,77,10,10.61
+libero_goal,1573,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 43,1,0,76,10,119.96
+libero_goal,1575,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,2,45,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 45,1,0,79,10,84.15
+libero_goal,1577,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,3,48,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 48,1,0,81,11,85.51
+libero_goal,1579,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,3,50,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 50,0,0,300,38,159.3
+libero_goal,1581,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 3,1,0,73,10,15.97
+libero_goal,1583,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 5,1,0,72,9,15.44
+libero_goal,1585,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,3,7,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 7,1,0,70,9,17.61
+libero_goal,1587,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 9,0,0,300,38,76.64
+libero_goal,1589,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,1,11,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 11,1,0,74,10,10.35
+libero_goal,1591,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 14,1,0,72,9,9.8
+libero_goal,1593,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,3,16,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 16,1,0,68,9,9.78
+libero_goal,1595,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 18,0,0,300,38,40.12
+libero_goal,1597,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,2,22,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 22,1,0,71,9,21.4
+libero_goal,1599,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 27,0,0,300,38,145.89
+libero_goal,1601,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 29,0,0,300,38,105.07
+libero_goal,1603,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,1,31,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 31,1,0,73,10,8.4
+libero_goal,1605,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 37,1,0,74,10,8.06
+libero_goal,1607,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 39,1,0,69,9,7.71
+libero_goal,1609,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,1,41,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 41,1,0,74,10,118.65
+libero_goal,1611,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,2,44,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 44,1,0,73,10,79.4
+libero_goal,1613,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 46,1,0,72,9,78.34
+libero_goal,1615,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,2,48,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 48,1,0,68,9,77.56
+libero_goal,1617,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,2,50,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 50,1,0,70,9,44.3
+libero_goal,1619,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 2,1,0,187,24,36.37
+libero_goal,1621,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,3,5,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 5,1,0,178,23,38.92
+libero_goal,1623,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,5,8,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 8,0,0,300,38,77.54
+libero_goal,1625,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 10,0,0,300,38,87.91
+libero_goal,1627,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 13,1,0,179,23,22.27
+libero_goal,1629,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,5,15,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 15,0,0,300,38,36.23
+libero_goal,1631,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,5,17,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 17,0,0,300,38,36.67
+libero_goal,1633,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 20,0,0,300,38,38.37
+libero_goal,1635,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,2,22,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 22,1,0,181,23,45.02
+libero_goal,1637,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 25,0,0,300,38,61.56
+libero_goal,1639,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,5,28,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 28,0,0,300,38,96.22
+libero_goal,1641,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,3,31,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 31,1,0,187,24,21.21
+libero_goal,1643,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,3,33,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 33,1,0,191,24,22.87
+libero_goal,1645,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,2,36,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 36,1,0,190,24,25.16
+libero_goal,1647,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,4,38,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 38,0,0,300,38,39.66
+libero_goal,1649,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 41,1,0,190,24,282.76
+libero_goal,1651,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 43,0,0,300,38,422.29
+libero_goal,1653,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 45,0,0,300,38,289.44
+libero_goal,1655,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,5,47,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 47,0,0,300,38,286.64
+libero_goal,1657,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,5,49,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 49,0,0,300,38,161.39
+libero_goal,1659,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 1,1,0,74,10,15.45
+libero_goal,1661,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,5,4,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 4,1,0,73,10,16.61
+libero_goal,1663,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,5,6,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 6,0,0,300,38,67.99
+libero_goal,1665,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 8,0,0,300,38,76.48
+libero_goal,1667,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 10,0,0,300,38,89.35
+libero_goal,1669,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,3,12,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 12,1,0,72,9,11.26
+libero_goal,1671,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 14,1,0,74,10,13.51
+libero_goal,1673,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 16,0,0,300,38,40.01
+libero_goal,1675,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 18,0,0,300,38,38.86
+libero_goal,1677,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,5,20,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 20,0,0,300,38,35.05
+libero_goal,1679,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_22,Sensor Noise,4,22,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 22,1,0,76,10,21.8
+libero_goal,1681,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,4,25,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 25,1,0,70,9,16.06
+libero_goal,1683,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,5,27,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 27,0,0,300,38,144.87
+libero_goal,1685,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 29,0,0,300,38,104.6
+libero_goal,1687,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,2,32,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 32,1,0,78,10,9.76
+libero_goal,1689,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,3,34,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 34,1,0,78,10,10.64
+libero_goal,1691,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,3,36,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 36,1,0,75,10,11.33
+libero_goal,1693,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,5,38,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 38,1,0,74,10,11.34
+libero_goal,1695,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,5,40,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 40,0,0,300,38,38.91
+libero_goal,1697,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,3,42,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 42,1,0,70,9,114.6
+libero_goal,1699,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,4,44,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 44,1,0,71,9,77.48
+libero_goal,1701,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,4,47,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 47,0,0,300,38,285.18
+libero_goal,1703,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 49,0,0,300,38,158.54
+libero_goal,1705,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,1,3,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 3,1,0,123,16,23.11
+libero_goal,1707,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 5,1,0,128,16,26.67
+libero_goal,1709,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 7,1,0,141,18,31.75
+libero_goal,1711,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 10,0,0,300,38,80.42
+libero_goal,1713,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,2,13,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 13,1,0,139,18,17.53
+libero_goal,1715,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,5,15,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 15,1,0,149,19,19.03
+libero_goal,1717,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,4,19,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 19,1,0,152,19,19.22
+libero_goal,1719,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_24,Sensor Noise,1,24,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 24,1,0,145,19,33.58
+libero_goal,1721,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 26,1,0,153,20,72.67
+libero_goal,1723,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,4,28,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 28,0,0,300,38,99.77
+libero_goal,1725,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 36,1,0,116,15,12.65
+libero_goal,1727,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,4,38,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 38,1,0,121,16,14.08
+libero_goal,1729,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 40,1,0,140,18,15.9
+libero_goal,1731,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,1,44,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 44,1,0,127,16,136.39
+libero_goal,1733,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 46,1,0,147,19,147.01
+libero_goal,1735,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,3,48,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 48,1,0,148,19,146.44
+libero_goal,1737,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,5,50,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 50,1,0,151,19,82.6
+libero_goal,1739,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_3,Sensor Noise,2,3,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 3,1,0,85,11,16.31
+libero_goal,1741,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 5,1,0,85,11,17.57
+libero_goal,1743,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,4,7,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 7,1,0,118,15,26.28
+libero_goal,1745,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,4,9,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 9,1,0,123,16,32.56
+libero_goal,1747,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_11,Sensor Noise,2,11,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 11,0,0,300,38,30.06
+libero_goal,1749,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 14,0,0,300,38,31.68
+libero_goal,1751,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_17,Sensor Noise,4,17,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 17,1,0,106,14,12.28
+libero_goal,1753,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 19,0,0,300,38,38.37
+libero_goal,1755,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_21,Sensor Noise,2,21,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 21,1,0,87,11,19.53
+libero_goal,1757,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,1,23,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 23,1,0,89,12,20.09
+libero_goal,1759,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 25,1,0,119,15,26.0
+libero_goal,1761,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 27,1,0,109,14,54.91
+libero_goal,1763,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,4,29,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 29,0,0,300,38,108.89
+libero_goal,1765,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,2,31,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 31,1,0,87,11,9.41
+libero_goal,1767,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_33,Sensor Noise,2,33,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 33,1,0,85,11,9.8
+libero_goal,1769,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_35,Sensor Noise,1,35,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 35,1,0,85,11,9.58
+libero_goal,1771,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,2,37,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 37,1,0,83,11,9.3
+libero_goal,1773,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,3,39,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 39,1,0,90,12,10.48
+libero_goal,1775,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 41,1,0,89,12,143.78
+libero_goal,1777,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,4,43,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 43,1,0,88,11,140.93
+libero_goal,1779,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_45,Sensor Noise,4,45,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 45,1,0,88,11,92.15
+libero_goal,1781,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_47,Sensor Noise,3,47,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 47,1,0,250,32,239.79
+libero_goal,1783,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_49,Sensor Noise,4,49,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 49,1,0,92,12,52.28
+libero_goal,1785,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,1,5,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 5,1,0,69,9,14.59
+libero_goal,1787,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,1,7,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 7,1,0,72,9,16.7
+libero_goal,1789,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 9,1,0,71,9,18.34
+libero_goal,1791,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,1,13,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 13,1,0,72,9,7.72
+libero_goal,1793,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_15,Sensor Noise,3,15,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 15,1,0,74,10,8.74
+libero_goal,1795,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,3,18,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 18,1,0,71,9,8.43
+libero_goal,1797,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,3,20,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 20,1,0,69,9,8.39
+libero_goal,1799,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_28,Sensor Noise,1,28,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 28,1,0,74,10,25.51
+libero_goal,1801,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,4,30,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 30,1,0,70,9,20.83
+libero_goal,1803,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,2,38,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 38,1,0,71,9,7.67
+libero_goal,1805,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_40,Sensor Noise,4,40,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 40,1,0,72,9,7.74
+libero_goal,1807,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,1,44,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 44,1,0,71,9,81.15
+libero_goal,1809,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 46,1,0,71,9,79.36
+libero_goal,1811,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,2,48,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 48,1,0,69,9,79.44
+libero_goal,1813,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,2,50,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 50,1,0,72,9,43.26
+libero_goal,1815,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,2,5,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 5,1,0,66,9,14.58
+libero_goal,1817,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_7,Sensor Noise,2,7,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 7,0,0,300,38,61.18
+libero_goal,1819,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,3,9,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 9,0,0,300,38,71.51
+libero_goal,1821,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,2,14,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 14,0,0,300,38,30.05
+libero_goal,1823,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,2,16,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 16,0,0,300,38,30.63
+libero_goal,1825,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,3,18,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 18,0,0,300,38,31.21
+libero_goal,1827,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_20,Sensor Noise,3,20,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 20,0,0,300,38,32.2
+libero_goal,1829,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,1,27,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 27,0,0,300,38,143.93
+libero_goal,1831,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,3,29,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 29,0,0,300,38,108.08
+libero_goal,1833,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 37,1,0,67,9,10.52
+libero_goal,1835,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 39,0,0,300,38,42.05
+libero_goal,1837,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_42,Sensor Noise,1,42,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 42,1,0,65,9,111.54
+libero_goal,1839,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,1,44,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 44,0,0,300,38,301.77
+libero_goal,1841,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 46,0,0,300,38,289.56
+libero_goal,1843,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,2,48,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 48,0,0,300,38,287.04
+libero_goal,1845,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,2,50,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 50,0,0,300,38,158.14
+libero_goal,1847,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_2,Sensor Noise,2,2,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 2,1,0,124,16,23.3
+libero_goal,1849,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_4,Sensor Noise,2,4,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 4,1,0,134,17,26.59
+libero_goal,1851,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,4,6,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 6,1,0,145,19,31.48
+libero_goal,1853,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,5,8,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 8,1,0,190,24,45.39
+libero_goal,1855,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_10,Sensor Noise,5,10,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 10,1,0,209,27,59.83
+libero_goal,1857,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_12,Sensor Noise,2,12,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 12,1,0,143,18,16.82
+libero_goal,1859,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,4,14,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 14,1,0,135,17,16.5
+libero_goal,1861,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_16,Sensor Noise,5,16,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 16,1,0,140,18,16.46
+libero_goal,1863,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,5,19,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 19,1,0,140,18,18.03
+libero_goal,1865,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,2,23,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 23,1,0,139,18,32.48
+libero_goal,1867,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,1,25,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 25,1,0,142,18,36.18
+libero_goal,1869,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,3,27,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 27,1,0,147,19,77.1
+libero_goal,1871,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_29,Sensor Noise,5,29,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 29,1,0,130,17,46.09
+libero_goal,1873,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_32,Sensor Noise,1,32,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 32,1,0,124,16,13.3
+libero_goal,1875,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_34,Sensor Noise,2,34,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 34,1,0,133,17,15.12
+libero_goal,1877,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_36,Sensor Noise,1,36,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 36,1,0,130,17,15.0
+libero_goal,1879,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_41,Sensor Noise,2,41,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 41,1,0,142,18,215.93
+libero_goal,1881,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,3,44,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 44,1,0,134,17,135.08
+libero_goal,1883,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,4,46,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 46,1,0,136,17,135.08
+libero_goal,1885,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,4,48,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 48,1,0,139,18,136.67
+libero_goal,1887,put_the_wine_bottle_on_the_rack_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,raw,put the wine bottle on the rack view 0 0 100 0 0 initstate 0 noise 50,1,0,139,18,72.69

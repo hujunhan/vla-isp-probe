@@ -1,0 +1,61 @@
+suite,task_id,name,category,level,noise_code,lang_mode,language,success,error,policy_steps,n_queries,wall_s
+libero_goal,1509,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,2,1,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 1,1,0,123,16,28.4
+libero_goal,1514,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_6,Sensor Noise,4,6,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 6,1,0,114,15,30.14
+libero_goal,1517,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_9,Sensor Noise,5,9,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 9,1,0,131,17,39.79
+libero_goal,1521,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_14,Sensor Noise,3,14,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 14,1,0,115,15,18.28
+libero_goal,1529,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_23,Sensor Noise,1,23,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 23,1,0,224,28,55.15
+libero_goal,1550,open_the_middle_drawer_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_50,Sensor Noise,4,50,raw,open the middle drawer of the cabinet view 0 0 100 0 0 initstate 0 noise 50,1,0,118,15,75.35
+libero_goal,1566,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,1,26,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 26,1,0,77,10,40.83
+libero_goal,1572,put_the_bowl_on_the_stove_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,2,38,raw,put the bowl on the stove view 0 0 100 0 0 initstate 0 noise 38,1,0,79,10,11.94
+libero_goal,1595,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 18,0,0,300,38,43.93
+libero_goal,1610,put_the_wine_bottle_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,2,43,raw,put the wine bottle on top of the cabinet view 0 0 100 0 0 initstate 0 noise 43,1,0,73,10,127.19
+libero_goal,1618,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_1,Sensor Noise,1,1,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 1,1,0,191,24,42.52
+libero_goal,1621,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_5,Sensor Noise,3,5,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 5,1,0,178,23,45.92
+libero_goal,1623,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,5,8,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 8,0,0,300,38,82.58
+libero_goal,1637,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_25,Sensor Noise,2,25,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 25,0,0,300,38,73.57
+libero_goal,1656,open_the_top_drawer_and_put_the_bowl_inside_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,5,48,raw,open the top drawer and put the bowl inside view 0 0 100 0 0 initstate 0 noise 48,0,0,300,38,321.08
+libero_goal,1670,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_13,Sensor Noise,4,13,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 13,1,0,72,9,10.59
+libero_goal,1683,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_27,Sensor Noise,5,27,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 27,0,0,300,38,156.84
+libero_goal,1699,put_the_bowl_on_top_of_the_cabinet_view_0_0_100_0_0_initstate_0_noise_44,Sensor Noise,4,44,raw,put the bowl on top of the cabinet view 0 0 100 0 0 initstate 0 noise 44,1,0,71,9,85.31
+libero_goal,1721,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_26,Sensor Noise,2,26,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 26,1,0,153,20,77.55
+libero_goal,1728,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_39,Sensor Noise,4,39,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 39,1,0,135,17,19.43
+libero_goal,1730,push_the_plate_to_the_front_of_the_stove_view_0_0_100_0_0_initstate_0_noise_43,Sensor Noise,3,43,raw,push the plate to the front of the stove view 0 0 100 0 0 initstate 0 noise 43,1,0,133,17,215.65
+libero_goal,1752,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_18,Sensor Noise,4,18,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 18,1,0,104,13,15.41
+libero_goal,1764,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_30,Sensor Noise,5,30,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 30,0,0,300,38,95.41
+libero_goal,1765,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_31,Sensor Noise,2,31,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 31,1,0,87,11,13.5
+libero_goal,1772,put_the_cream_cheese_in_the_bowl_view_0_0_100_0_0_initstate_0_noise_38,Sensor Noise,1,38,raw,put the cream cheese in the bowl view 0 0 100 0 0 initstate 0 noise 38,1,0,85,11,13.49
+libero_goal,1796,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_19,Sensor Noise,3,19,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 19,1,0,71,9,11.55
+libero_goal,1811,turn_on_the_stove_view_0_0_100_0_0_initstate_0_noise_48,Sensor Noise,2,48,raw,turn on the stove view 0 0 100 0 0 initstate 0 noise 48,1,0,69,9,81.71
+libero_goal,1818,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_8,Sensor Noise,4,8,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 8,0,0,300,38,81.07
+libero_goal,1833,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_37,Sensor Noise,1,37,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 37,1,0,67,9,11.19
+libero_goal,1841,put_the_bowl_on_the_plate_view_0_0_100_0_0_initstate_0_noise_46,Sensor Noise,2,46,raw,put the bowl on the plate view 0 0 100 0 0 initstate 0 noise 46,0,0,300,38,321.12
+libero_goal,2313,open_the_middle_drawer_of_the_cabinet_light_1,Light Conditions,2,,raw,open the middle drawer of the cabinet light 1,1,0,150,19,24.45
+libero_goal,2314,open_the_middle_drawer_of_the_cabinet_light_10,Light Conditions,1,,raw,open the middle drawer of the cabinet light 10,1,0,164,21,23.68
+libero_goal,2315,open_the_middle_drawer_of_the_cabinet_light_11,Light Conditions,,,raw,open the middle drawer of the cabinet light 11,1,0,157,20,20.93
+libero_goal,2328,open_the_middle_drawer_of_the_cabinet_light_25,Light Conditions,,,raw,open the middle drawer of the cabinet light 25,1,0,164,21,26.57
+libero_goal,2334,open_the_middle_drawer_of_the_cabinet_light_30,Light Conditions,3,,raw,open the middle drawer of the cabinet light 30,1,0,163,21,21.99
+libero_goal,2337,open_the_middle_drawer_of_the_cabinet_light_34,Light Conditions,4,,raw,open the middle drawer of the cabinet light 34,1,0,155,20,22.1
+libero_goal,2348,open_the_middle_drawer_of_the_cabinet_light_48,Light Conditions,2,,raw,open the middle drawer of the cabinet light 48,1,0,156,20,22.16
+libero_goal,2352,open_the_middle_drawer_of_the_cabinet_light_7,Light Conditions,,,raw,open the middle drawer of the cabinet light 7,1,0,172,22,23.58
+libero_goal,2367,open_the_top_drawer_and_put_the_bowl_inside_light_20,Light Conditions,,,raw,open the top drawer and put the bowl inside light 20,1,0,207,26,30.63
+libero_goal,2378,open_the_top_drawer_and_put_the_bowl_inside_light_30,Light Conditions,5,,raw,open the top drawer and put the bowl inside light 30,1,0,229,29,33.69
+libero_goal,2387,open_the_top_drawer_and_put_the_bowl_inside_light_39,Light Conditions,1,,raw,open the top drawer and put the bowl inside light 39,1,0,224,28,31.4
+libero_goal,2394,open_the_top_drawer_and_put_the_bowl_inside_light_45,Light Conditions,5,,raw,open the top drawer and put the bowl inside light 45,1,0,216,27,30.65
+libero_goal,2398,open_the_top_drawer_and_put_the_bowl_inside_light_49,Light Conditions,3,,raw,open the top drawer and put the bowl inside light 49,1,0,223,28,32.08
+libero_goal,2402,open_the_top_drawer_and_put_the_bowl_inside_light_7,Light Conditions,,,raw,open the top drawer and put the bowl inside light 7,1,0,202,26,28.48
+libero_goal,2417,push_the_plate_to_the_front_of_the_stove_light_26,Light Conditions,1,,raw,push the plate to the front of the stove light 26,1,0,118,15,17.63
+libero_goal,2428,push_the_plate_to_the_front_of_the_stove_light_37,Light Conditions,2,,raw,push the plate to the front of the stove light 37,1,0,119,15,16.72
+libero_goal,2429,push_the_plate_to_the_front_of_the_stove_light_38,Light Conditions,4,,raw,push the plate to the front of the stove light 38,1,0,118,15,18.85
+libero_goal,2440,push_the_plate_to_the_front_of_the_stove_light_6,Light Conditions,,,raw,push the plate to the front of the stove light 6,1,0,110,14,15.14
+libero_goal,2451,put_the_bowl_on_the_plate_light_27,Light Conditions,,,raw,put the bowl on the plate light 27,1,0,72,9,12.62
+libero_goal,2466,put_the_bowl_on_the_plate_light_9,Light Conditions,,,raw,put the bowl on the plate light 9,1,0,73,10,11.78
+libero_goal,2483,put_the_bowl_on_top_of_the_cabinet_light_8,Light Conditions,1,,raw,put the bowl on top of the cabinet light 8,1,0,83,11,11.33
+libero_goal,2486,put_the_cream_cheese_in_the_bowl_light_14,Light Conditions,2,,raw,put the cream cheese in the bowl light 14,1,0,160,20,22.29
+libero_goal,2489,put_the_cream_cheese_in_the_bowl_light_21,Light Conditions,,,raw,put the cream cheese in the bowl light 21,1,0,162,21,21.54
+libero_goal,2503,put_the_cream_cheese_in_the_bowl_light_48,Light Conditions,1,,raw,put the cream cheese in the bowl light 48,1,0,158,20,22.83
+libero_goal,2508,put_the_cream_cheese_in_the_bowl_light_8,Light Conditions,,,raw,put the cream cheese in the bowl light 8,1,0,169,22,24.38
+libero_goal,2525,put_the_wine_bottle_on_the_rack_light_27,Light Conditions,3,,raw,put the wine bottle on the rack light 27,1,0,139,18,19.11
+libero_goal,2528,put_the_wine_bottle_on_the_rack_light_31,Light Conditions,,,raw,put the wine bottle on the rack light 31,1,0,136,17,20.56
+libero_goal,2540,put_the_wine_bottle_on_the_rack_light_6,Light Conditions,2,,raw,put the wine bottle on the rack light 6,1,0,136,17,18.47
+libero_goal,2555,put_the_wine_bottle_on_top_of_the_cabinet_light_30,Light Conditions,,,raw,put the wine bottle on top of the cabinet light 30,1,0,79,10,11.61
+libero_goal,2566,put_the_wine_bottle_on_top_of_the_cabinet_light_45,Light Conditions,,,raw,put the wine bottle on top of the cabinet light 45,1,0,79,10,11.41

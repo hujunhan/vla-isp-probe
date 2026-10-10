@@ -1,0 +1,272 @@
+{
+ "plausible_shot_noise": [
+  0.0001,
+  0.001,
+  0.005,
+  0.012
+ ],
+ "plausible_over_exposure_ev": 1.0,
+ "policies": {
+  "oft": [
+   "B01",
+   "B2",
+   "B3",
+   "B4",
+   "B0c",
+   "B5"
+  ],
+  "oft_w": [
+   "B01",
+   "B2",
+   "B3",
+   "B4"
+  ]
+ },
+ "blocks": {
+  "B01": [
+   {
+    "tag": "render",
+    "mode": "render",
+    "cams": []
+   },
+   {
+    "tag": "clean_cam",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {}
+   }
+  ],
+  "B2": [
+   {
+    "tag": "lam1e-4",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.0001,
+     "denoise_h": 1
+    }
+   },
+   {
+    "tag": "lam1e-3",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.001,
+     "denoise_h": 4
+    }
+   },
+   {
+    "tag": "lam5e-3",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.005,
+     "denoise_h": 12
+    }
+   },
+   {
+    "tag": "lam1.2e-2",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.012,
+     "denoise_h": 18
+    }
+   },
+   {
+    "tag": "stress_lam3e-2",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.03,
+     "denoise_h": 30
+    }
+   },
+   {
+    "tag": "stress_lam6e-2",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.06,
+     "denoise_h": 30
+    }
+   },
+   {
+    "tag": "over_ev1",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "exposure_ev": 1.0
+    }
+   }
+  ],
+  "B3": [
+   {
+    "tag": "lam5e-3_dnoff",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.005,
+     "denoise_h": 12,
+     "denoise": "off"
+    }
+   },
+   {
+    "tag": "lam5e-3_dnstrong",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.005,
+     "denoise_h": 12,
+     "denoise": "strong"
+    }
+   },
+   {
+    "tag": "lam1.2e-2_dnoff",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.012,
+     "denoise_h": 18,
+     "denoise": "off"
+    }
+   },
+   {
+    "tag": "lam1.2e-2_dnstrong",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "shot_noise": 0.012,
+     "denoise_h": 18,
+     "denoise": "strong"
+    }
+   }
+  ],
+  "B4": [
+   {
+    "tag": "img_sigma_lam1e-3",
+    "mode": "imgspace",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "sigma": 3.799
+   },
+   {
+    "tag": "img_sigma_lam5e-3",
+    "mode": "imgspace",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "sigma": 6.925
+   },
+   {
+    "tag": "img_sigma_lam1.2e-2",
+    "mode": "imgspace",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "sigma": 10.528
+   },
+   {
+    "tag": "img_sigma_lam3e-2",
+    "mode": "imgspace",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "sigma": 18.765
+   }
+  ],
+  "B0c": [
+   {
+    "tag": "linear_lam5e-3",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "input_domain": "linear",
+     "shot_noise": 0.005,
+     "denoise_h": 10
+    }
+   },
+   {
+    "tag": "linear_lam1.2e-2",
+    "mode": "raw",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "cfg": {
+     "input_domain": "linear",
+     "shot_noise": 0.012,
+     "denoise_h": 15
+    }
+   }
+  ],
+  "B5": [
+   {
+    "tag": "ag_only_lam5e-3",
+    "mode": "raw",
+    "cams": [
+     "agentview"
+    ],
+    "cfg": {
+     "shot_noise": 0.005,
+     "denoise_h": 12
+    }
+   },
+   {
+    "tag": "ag_only_lam1.2e-2",
+    "mode": "raw",
+    "cams": [
+     "agentview"
+    ],
+    "cfg": {
+     "shot_noise": 0.012,
+     "denoise_h": 18
+    }
+   }
+  ]
+ }
+}

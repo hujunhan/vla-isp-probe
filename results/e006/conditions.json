@@ -1,0 +1,79 @@
+{
+ "episode_offset": 20,
+ "episodes_per_task": 30,
+ "tasks": {
+  "libero_spatial": [
+   0,
+   1,
+   2
+  ],
+  "libero_object": [
+   0,
+   1,
+   2
+  ],
+  "libero_goal": [
+   0,
+   1,
+   2
+  ]
+ },
+ "policies": {
+  "oft": [
+   "A",
+   "B"
+  ]
+ },
+ "blocks": {
+  "A": [
+   {
+    "tag": "inf_clean_off",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.0,
+    "preset": "off"
+   },
+   {
+    "tag": "inf_lam1.2e-2_off",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.012,
+    "preset": "off"
+   }
+  ],
+  "B": [
+   {
+    "tag": "inf_clean_sharp",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.0,
+    "preset": "tuned",
+    "bnr_scale": 0,
+    "wts": 0
+   },
+   {
+    "tag": "inf_lam1.2e-2_repo",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.012,
+    "preset": "repo_default"
+   }
+  ]
+ },
+ "references": {
+  "inf_lam1.2e-2_off": "inf_clean_off",
+  "inf_lam1.2e-2_repo": "inf_clean_sharp"
+ }
+}
