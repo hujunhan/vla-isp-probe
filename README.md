@@ -5,6 +5,8 @@ A reproduction of the LIBERO-Plus robustness numbers for OpenVLA-OFT, plus a pre
 of simulated sensor noise and ISP noise reduction in closed-loop LIBERO manipulation. Everything was
 run on one 16 GB laptop GPU.
 
+![Figure 1: ISP noise reduction and closed-loop success](figures/fig1_isp.png)
+
 Full write-up: **[REPORT.md](REPORT.md)**. Every number in it comes from a per-episode CSV in
 [`results/`](results/), and you can recompute it without a GPU (see "Reproduce" below).
 
@@ -20,6 +22,8 @@ Full write-up: **[REPORT.md](REPORT.md)**. Every number in it comes from a per-e
 | 6 | **Un-tuned noise reduction at high gain hurts:** a drop of about 16 points for a third-person-only policy across suites, and about 8 for a wrist + third-person policy (the estimate shrank on replication: 29 → 13 → 8) | REPORT §4.2–4.3, `results/e005/`, `results/e006/` |
 | 7 | **Image-space Gaussian noise at matched PSNR has no effect,** so image-space robustness benchmarks would miss finding 6 | REPORT §4.2 |
 
+![Figure 2: instruction suffix](figures/fig2_suffix.png)
+
 **Scope:** simulation only, one ISP setting (spatial noise-reduction strength), RAW approximated from
 8-bit renders, 4-bit models, 9 tasks for the ISP probe. REPORT §5 lists the limitations.
 
@@ -30,7 +34,7 @@ There are three tiers, from minutes on a CPU to days on a GPU.
 ### Tier 0: recompute every table from the CSVs (CPU, about a minute)
 
 ```bash
-pip install numpy opencv-python pytest           # aggregators need only the stdlib; tests need these
+pip install numpy opencv-python pytest matplotlib  # aggregators need only the stdlib
 python scripts/aggregate_e002.py results/e002/{spatial,object,goal,long}_clean.csv   # §2, §3.1, §3.3
 python scripts/aggregate_e002.py results/e002/goal_clean.csv results/e003/goal_raw_full_{a,b}.csv  # §3.2 suffix, McNemar
 python scripts/aggregate_e004.py results/e004/oft.csv results/e004/oft_w.csv           # §4.2 toy ISP
@@ -55,6 +59,8 @@ rng = np.random.default_rng(0)
 toy = simulate(frame, CameraConfig(shot_noise=0.012, denoise_h=0), rng)       # toy ISP, NR off
 inf = simulate_infinite(frame, 0.012, read_noise_for(0.012), preset("off"), rng)
 ```
+
+`python scripts/make_figures.py` redraws both report figures into `figures/` (panel 1a uses Infinite-ISP).
 
 `scripts/calibrate_e004.py` and `scripts/calibrate_e005.py` re-derive the noise-reduction strengths
 (the "tuned" presets) from these frames.
@@ -104,6 +110,7 @@ Notes on running:
 
 ```
 REPORT.md                 the write-up
+figures/                  report figures (scripts/make_figures.py)
 isp/camera.py             sensor model (Brooks et al. unprocessing, shot/read noise, 12-bit) + toy ISP
 isp/infinite.py           runs Infinite-ISP stages on our simulated RAW
 scripts/run_oft_*.py      wrappers around the OpenVLA-OFT LIBERO eval (original tasks, LIBERO-Plus
