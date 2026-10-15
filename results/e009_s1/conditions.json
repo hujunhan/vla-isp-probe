@@ -1,0 +1,33 @@
+{
+ "_doc": "E009 Stage D (decisions/015): noise4 and u8_noise4 as in Stages B/C, SEED=1, Goal 0 and Object 0, init states 20-39.",
+ "blocks": {
+  "D": [
+   {
+    "tag": "u8_noise4",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.004056469964285091,
+    "read_var": 0.001645494857114709,
+    "preset": "tuned",
+    "bnr_scale": 4,
+    "wts": 20,
+    "sharpen": false
+   },
+   {
+    "tag": "noise4",
+    "mode": "c1",
+    "t_ms": 4,
+    "k": 1,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   }
+  ]
+ }
+}

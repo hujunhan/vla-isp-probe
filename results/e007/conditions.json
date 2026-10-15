@@ -1,0 +1,8 @@
+{
+ "_doc": "E007 (notebook experiments/E007-c1-step0-libero-motion.md): classic render, clean images, per-step sim state logged for offline image-motion analysis (e007/motion.py).",
+ "blocks": {
+  "E7": [
+   {"tag": "motion", "mode": "render", "cams": ["agentview", "wrist"], "motion_log": true}
+  ]
+ }
+}

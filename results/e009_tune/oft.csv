@@ -1,0 +1,10 @@
+condition,suite,task_id,episode,success,error,policy_steps,n_queries,wall_s
+tune,libero_object,0,45,1,0,146,19,25.25
+tune,libero_spatial,0,45,1,0,74,10,15.76
+tune,libero_spatial,1,45,1,0,105,14,19.13
+tune,libero_spatial,2,45,1,0,101,13,18.14
+tune,libero_object,1,45,1,0,130,17,22.29
+tune,libero_object,2,45,1,0,123,16,21.1
+tune,libero_goal,0,45,1,0,125,16,21.14
+tune,libero_goal,1,45,1,0,95,12,16.54
+tune,libero_goal,2,45,1,0,82,11,15.47

@@ -1,0 +1,7 @@
+{"_doc": "E008 (notebook experiments/E008-filament-renderer-gap.md, decisions/010). classic = native LIBERO render; fil_* = Filament renders of the same sim state (e008/conditions.py).",
+ "blocks": {"E8": [
+  {"tag": "classic", "mode": "render", "cams": ["agentview", "wrist"]},
+  {"tag": "fil_post", "mode": "filament", "fil": "post", "cams": ["agentview", "wrist"]},
+  {"tag": "fil_hdr_oetf", "mode": "filament", "fil": "oetf", "cams": ["agentview", "wrist"]},
+  {"tag": "fil_raw_isp", "mode": "filament", "fil": "raw_isp", "cams": ["agentview", "wrist"]}
+ ]}}

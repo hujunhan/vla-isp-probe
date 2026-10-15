@@ -7,7 +7,8 @@ run on one 16 GB laptop GPU.
 
 ![Figure 1: ISP noise reduction and closed-loop success](figures/fig1_isp.png)
 
-Full write-up: **[REPORT.md](REPORT.md)**. Every number in it comes from a per-episode CSV in
+Full write-up: **[REPORT.md](REPORT.md)**. A follow-up study of exposure time (motion blur vs noise) is
+in **[REPORT_C1.md](REPORT_C1.md)** (see "C1" below). Every number in it comes from a per-episode CSV in
 [`results/`](results/), and you can recompute it without a GPU (see "Reproduce" below).
 
 ## Findings
@@ -26,6 +27,54 @@ Full write-up: **[REPORT.md](REPORT.md)**. Every number in it comes from a per-e
 
 **Scope:** simulation only, one ISP setting (spatial noise-reduction strength), RAW approximated from
 8-bit renders, 4-bit models, 9 tasks for the ISP probe. REPORT §5 lists the limitations.
+
+## C1: exposure time, motion blur and noise (REPORT_C1.md)
+
+![Figure 3: exposure time and closed-loop success](figures/fig3_c1.png)
+
+| # | Finding | Evidence |
+|---|---|---|
+| 8 | **Shorter exposure lowers success monotonically, and it is all noise.** At a fixed light level with gain ∝ 1/t and noise reduction tuned per exposure, OFT goes from 98.3% (clean) and 97.2% (32 ms) to 81.1% (4 ms). Noise alone reproduces the 4 ms loss; physically integrated motion blur at 32 ms (2–4 px on the wrist camera) costs nothing measurable | REPORT_C1 §3.1–3.2, `results/e009/` |
+| 9 | **Which tasks noise breaks depends on the policy**, and an open-loop action-sensitivity probe does not predict it (Spearman ρ = 0.27) | REPORT_C1 §3.3, `results/e010/` |
+| 10 | **The 8-bit unprocessing route gets the direction right but understates the size.** On the two fragile tasks, the physical RAW route loses 21.7 points more (95% CI [7.5, 35.8], 3 noise seeds); the noise composition (read vs shot) at equal variance matters as much | REPORT_C1 §3.4, `results/e009*/` |
+
+**Scope:** simulation only, OpenVLA-OFT 4-bit (with and without the wrist camera), 9 tasks, one light
+level, an unvalidated camera model.
+
+**Tier 0 for C1** (CPU; needs numpy, scipy, matplotlib):
+
+```bash
+python e007/aggregate_e007.py results/e007                 # §2.1 blur lengths (from results/e007/frames.csv)
+python e008/aggregate_e008.py results/e008/oft.csv         # §2.1 renderer matching
+python e009/aggregate_e009.py results/e009/oft.csv         # Tables 1-2, §3.4 (8-bit route, noise model)
+python e009/aggregate_e009.py results/e009/oft_w.csv       # OFT_w
+python e009/stage_d.py                                     # §3.4 multi-seed RAW vs 8-bit
+python e010/analyze_probe.py                               # §3.3 open-loop probe
+python scripts/make_figures_c1.py                          # Figures 3-4
+python -m pytest -q tests/test_raw_formation.py            # gain/noise model (needs ISETCAM_ROOT)
+```
+
+**Tier 2 for C1** needs, in addition to the setup below:
+- **The HDR renderer.** MuJoCo built from source at
+  [hujunhan/mujoco@8f82efa](https://github.com/hujunhan/mujoco/tree/filament-rgba16f) (RGBA16F
+  read-back for the Filament renderer), in a second conda env. `e008/fil_client.py` starts
+  `e008/render_server.py` with that env's Python (`MJHDR_PY`, default `~/miniconda3/envs/mjhdr/bin/python`).
+- **ISETCam** cloned at [ISET/isetcam@17146a9](https://github.com/ISET/isetcam) (`ISETCAM_ROOT`, default
+  `~/research/ext/isetcam`). Only data files are read.
+
+All runs use `scripts/e004_run.py` with the condition blocks in `results/<exp>/conditions.json`:
+
+| Run | Command | Episodes |
+|---|---|---|
+| E007, motion logging (then `python e007/motion.py`) | `--exp e007 --policy oft --blocks E7 --tasks <9 tasks> --episodes 5` | 45 |
+| E008, renderer matching | `--exp e008 --policy oft --blocks E8 --tasks libero_spatial:0,libero_object:0,libero_goal:0 --episodes 20` | 240 |
+| E009 NR-tuning frames (then `e009/calibrate_nr.py`, `e009/calibrate_nr_u8.py`) | `--exp e009_tune --policy oft --blocks T --tasks <9 tasks> --episodes 1 --episode-offset 45` | 9 |
+| E009 Stages A–C | `--exp e009 --policy oft --blocks A,B,C --tasks <9 tasks> --episodes 20 --episode-offset 20`; `--policy oft_w --blocks W` | 3,060 |
+| E009 Stage D | `SEED=1` (then `SEED=2`, `--exp e009_s2`): `--exp e009_s1 --policy oft --blocks D --tasks libero_goal:0,libero_object:0 --episodes 20 --episode-offset 20` | 160 |
+| E010, open-loop probe | `--exp e010 --policy oft --blocks P --tasks <9 tasks> --episodes 5 --episode-offset 20`; repeat with `oft_w` | 90 |
+
+`<9 tasks>` is the E005 list above. Sample frames, per-step motion logs, probe arrays beyond
+`results/e010/probe/` and the NR-tuning frames (212 MB) are not shipped; re-running regenerates them.
 
 ## Reproduce
 
@@ -110,6 +159,7 @@ Notes on running:
 
 ```
 REPORT.md                 the write-up
+REPORT_C1.md              the exposure-time follow-up
 figures/                  report figures (scripts/make_figures.py)
 isp/camera.py             sensor model (Brooks et al. unprocessing, shot/read noise, 12-bit) + toy ISP
 isp/infinite.py           runs Infinite-ISP stages on our simulated RAW
@@ -117,6 +167,10 @@ scripts/run_oft_*.py      wrappers around the OpenVLA-OFT LIBERO eval (original 
                           categories, camera model on observations); errors counted, not scored as failures
 scripts/e004_run.py       driver for the probe experiments (E004–E006)
 scripts/aggregate_*.py    tables and pre-registered decision rules
+isp/raw_formation.py      C1: RAW formation from linear HDR (ISETCam method), gain-coupled shot/read noise
+isp/infinite_v1.py        C1: Infinite-ISP on 12-bit Bayer RAW, including a signed-input variant
+e007/ … e010/             C1: motion measurement, Filament client/server and matching, exposure
+                          conditions and analyses, open-loop probe (REPORT_C1.md)
 scripts/calibrate_*.py    noise-reduction strength calibration
 results/                  per-episode CSVs, condition definitions, summaries (see results/README.md)
 tests/                    camera-model unit tests
@@ -131,11 +185,13 @@ docstrings.
 
 - Upstream code is not vendored. It is cloned at the commits above under its own licenses.
 - The exception is `scripts/libero_original_task_map.py`, the original LIBERO task list (MIT).
+- C1 reads data files from [ISETCam](https://github.com/ISET/isetcam) (display primaries, QE and IR
+  curves, default pixel parameters); nothing from it is vendored.
 - Unprocessing follows Brooks et al., CVPR 2019 (arXiv 1811.11127) and
   [google-research/unprocessing](https://github.com/google-research/unprocessing) (Apache-2.0).
 
 The code was drafted with an AI coding assistant under the author's direction. Commits tagged
-`[ai-scaffold]` in the source history mark the drafted code. REPORT §8 lists what was adopted,
-adapted, and authored.
+`[ai-scaffold]` in the source history mark the drafted code. REPORT §9 and REPORT_C1 §7 list what was
+adopted, adapted, and authored.
 
 License: [MIT](LICENSE) for the code in this repository.

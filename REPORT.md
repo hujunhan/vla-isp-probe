@@ -63,6 +63,13 @@ perturbations, such as blur and fog. This report examines that framing in two st
 2. We test, in closed loop, whether perturbations applied in the RAW domain and passed through an
    ISP change task success.
 
+**Concurrent work.** RawVLA [7], posted on 29 September 2026, shortly before this report, also builds LIBERO
+pseudo-RAW by unprocessing. It sweeps exposure, sensor noise, chromatic and tonal response, and bit
+depth one at a time, in simulation and on a real robot, and proposes a neural ISP for frozen policies.
+Its default ISP has no denoiser, it does not vary noise-reduction strength, and it does not compare
+RAW-domain with image-space noise at matched severity; its RAW has no mosaic. The findings in §5 on
+tuned and un-tuned noise reduction and on the image-space control are therefore not covered there.
+
 **Contributions.**
 1. An independent reproduction of the OpenVLA-OFT row of LIBERO-Plus Table 2 (Sensor Noise and
    Light) on consumer hardware (§3).
@@ -451,3 +458,5 @@ The code was drafted with an AI coding assistant under the author's direction. C
 5. 10x-Engineers. *Infinite-ISP.* <https://github.com/10x-Engineers/Infinite-ISP> @ `3221207`
    (Apache-2.0).
 6. B. Liu et al. *LIBERO.* NeurIPS 2023 Datasets and Benchmarks Track.
+7. S. Liu et al. *RawVLA: Embodied Neural Image Signal Processor for Robotic Manipulation.*
+   arXiv:2609.37530 (v1, 29 Sep 2026). Concurrent work.

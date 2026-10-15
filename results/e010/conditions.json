@@ -1,0 +1,22 @@
+{
+ "_doc": "E010 (decisions/015 C): clean matched RAW path (E009 base) with an open-loop probe: per query, 8 noisy variants (E009 4 ms gain + tuned NR, k=1); actions saved to probe/.",
+ "blocks": {
+  "P": [
+   {
+    "tag": "probe4",
+    "mode": "c1",
+    "t_ms": null,
+    "noise": false,
+    "nr": "off",
+    "probe": {
+     "n": 8,
+     "t_ms": 4
+    },
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   }
+  ]
+ }
+}

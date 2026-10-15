@@ -1,0 +1,210 @@
+{
+ "_doc": "E009 Stage A (notebook experiments/E009-c1-exposure-tradeoff.md, decisions/012). Matched Filament HDR -> RAW (form_raw_gain) -> Infinite-ISP v1, query frames only. base = instantaneous, noise off, NR off (E008 condition 4). tK = K-ms exposure: K/2 physics-substep sub-frames averaged in linear HDR, gain G(t), shot + read noise, NR tuned per exposure (results/e009/nr_calibration.json), sharpening off. Stage B (decisions/013): block B (OFT) and block W (OFT_w, agentview only; same tags, results in oft_w.csv). Stage C (decisions/014): block C (OFT): u8_* = 8-bit unprocess path (mode infinite, E005) clean / E005 noise / E009 4 ms noise; noise4_signed = noise4 without black-level rectification before Bayer NR.",
+ "blocks": {
+  "A": [
+   {
+    "tag": "base",
+    "mode": "c1",
+    "t_ms": null,
+    "noise": false,
+    "nr": "off",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t4",
+    "mode": "c1",
+    "t_ms": 4,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t8",
+    "mode": "c1",
+    "t_ms": 8,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t16",
+    "mode": "c1",
+    "t_ms": 16,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t32",
+    "mode": "c1",
+    "t_ms": 32,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   }
+  ],
+  "B": [
+   {
+    "tag": "blur32",
+    "mode": "c1",
+    "t_ms": 32,
+    "noise": false,
+    "nr": "off",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "noise4",
+    "mode": "c1",
+    "t_ms": 4,
+    "k": 1,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "img32",
+    "mode": "c1",
+    "t_ms": null,
+    "noise": false,
+    "nr": "off",
+    "imgblur": {
+     "agentview": 1.29,
+     "wrist": 2.28
+    },
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t48",
+    "mode": "c1",
+    "t_ms": 48,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   }
+  ],
+  "W": [
+   {
+    "tag": "base",
+    "mode": "c1",
+    "t_ms": null,
+    "noise": false,
+    "nr": "off",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t4",
+    "mode": "c1",
+    "t_ms": 4,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t16",
+    "mode": "c1",
+    "t_ms": 16,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "t32",
+    "mode": "c1",
+    "t_ms": 32,
+    "noise": true,
+    "nr": "tuned",
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   }
+  ],
+  "C": [
+   {
+    "tag": "noise4_signed",
+    "mode": "c1",
+    "t_ms": 4,
+    "k": 1,
+    "noise": true,
+    "nr": "tuned",
+    "signed": true,
+    "cams": [
+     "agentview",
+     "wrist"
+    ]
+   },
+   {
+    "tag": "u8_noise4",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.004056469964285091,
+    "read_var": 0.001645494857114709,
+    "preset": "tuned",
+    "bnr_scale": 4,
+    "wts": 20,
+    "sharpen": false
+   },
+   {
+    "tag": "u8_clean",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.0,
+    "preset": "off"
+   },
+   {
+    "tag": "u8_e005",
+    "mode": "infinite",
+    "cams": [
+     "agentview",
+     "wrist"
+    ],
+    "lam": 0.012,
+    "preset": "tuned",
+    "bnr_scale": 2,
+    "wts": 30
+   }
+  ]
+ }
+}

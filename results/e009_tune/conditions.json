@@ -1,0 +1,5 @@
+{
+ "_doc": "E009 P1/P3/P4 pre-flight: clean baseline policy (E008 condition 4 images on query frames), dumping 32 ms of sub-frames every 3rd query for NR tuning. Init state 45.",
+ "blocks": {"T": [{"tag": "tune", "mode": "c1", "t_ms": null, "noise": false, "nr": "off",
+                    "cams": ["agentview", "wrist"], "dump": "~/research/logs/e009_tune_frames"}]}
+}
