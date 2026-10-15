@@ -59,6 +59,7 @@ python -m pytest -q tests/test_raw_formation.py            # gain/noise model (n
   [hujunhan/mujoco@8f82efa](https://github.com/hujunhan/mujoco/tree/filament-rgba16f) (RGBA16F
   read-back for the Filament renderer), in a second conda env. `e008/fil_client.py` starts
   `e008/render_server.py` with that env's Python (`MJHDR_PY`, default `~/miniconda3/envs/mjhdr/bin/python`).
+  Build steps: [`docs/build_mujoco_hdr.md`](docs/build_mujoco_hdr.md).
 - **ISETCam** cloned at [ISET/isetcam@17146a9](https://github.com/ISET/isetcam) (`ISETCAM_ROOT`, default
   `~/research/ext/isetcam`). Only data files are read.
 
